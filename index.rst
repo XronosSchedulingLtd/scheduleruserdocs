@@ -1,0 +1,35 @@
+.. Xronos Scheduler documentation master file, created by
+   sphinx-quickstart on Thu Nov 17 11:45:33 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Xronos Scheduler
+================
+
+A scheduling program for schools.
+
+.. image:: public.png
+   :scale: 75%
+
+
+Scheduler is licensed under the GNU General Public Licence, version 2.
+
+Note - Scheduler is *not* a timetabling program.  It has no facilities
+at all to solve the problem of school timetabling.  If you want a good
+timetabling program, try `Keith Johnson's Timetabler <http://www.timetabler.com>`_.
+
+
+.. toctree::
+
+   overview
+   quicktour
+   concepts
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
