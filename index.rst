@@ -24,6 +24,8 @@ timetabling program, try `Keith Johnson's Timetabler <http://www.timetabler.com>
    overview
    quicktour
    concepts
+   tweaking
+   reports
 
 
 Indices and tables
