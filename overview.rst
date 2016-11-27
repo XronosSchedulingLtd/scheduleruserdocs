@@ -9,16 +9,26 @@ Xronos Scheduler is a scheduling program designed primarily for use in
 schools, but potentially of use elsewhere.
 
 Its objective is to provide all the information which staff and pupils
-need about what's happening in the school and when *all in one place*.
+need about what's happening in the school and when *all in one place*
+and with the information already tailored to suit each individual user.
 Usually all this information already exists within the school, but it's
 spread around a dozen different sources.  Even information stored within
 a single MIS can't usually be viewed all in one go - you look in one
 place for your basic timetable, another for the prep timetable, another
-for external events, etc.  Each member of staff then has to work out,
-for instance, which pupils will be missing from a lesson because all the
-year 11 geography students are going on a field trip.  This kind of
+for external events, etc.
+
+It is then often necessary to work out how the information applies to
+the individual.  For instance, working from the prep timetable for the
+whole school, each member of staff and each pupil separately works out
+which slots apply to him or her.  Similarly, for trips, each member of
+staff has to work out which pupils will be missing from a lesson because
+all the year 11 geography students are going on a field trip.  This kind of
 work really should be done by a computer, and Scheduler does exactly
 that.
+
+Where pupils are scheduled to be missing from a lesson (for a trip,
+or some other activity) the fact is flagged automatically to the teacher
+and a list of the affected pupils is provided.
 
 To the casual user, it at first looks much like any other calendaring
 program, but the major difference is that instead of holding lots of

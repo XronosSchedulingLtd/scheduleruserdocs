@@ -60,7 +60,7 @@ another.
 ======================
 Structured information
 ======================
-Most of what Scheduler does could be done with a general purpose calendaring
+Much of what Scheduler does could be done with a general purpose calendaring
 program like Google Calendar, except that they don't usually understand
 structured information. You'd need to create
 thousands of separate calendars to cover all the resources within the

@@ -3,10 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Xronos Scheduler
-================
+Index
+=====
 
-A scheduling program for schools.
+Xronos Scheduler - a scheduling program for schools.
+
+
+.. toctree::
+
+   overview
+   quicktour
+   concepts
+   tweaking
+   reports
 
 .. image:: public.png
    :scale: 75%
@@ -17,15 +26,6 @@ Scheduler is licensed under the GNU General Public Licence, version 2.
 Note - Scheduler is *not* a timetabling program.  It has no facilities
 at all to solve the problem of school timetabling.  If you want a good
 timetabling program, try `Keith Johnson's Timetabler <http://www.timetabler.com>`_.
-
-
-.. toctree::
-
-   overview
-   quicktour
-   concepts
-   tweaking
-   reports
 
 
 Indices and tables
