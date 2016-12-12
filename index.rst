@@ -8,6 +8,7 @@ Index
 
 Xronos Scheduler - a scheduling program for schools.
 
+This documentation is a work in progress.
 
 .. toctree::
 
