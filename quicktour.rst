@@ -21,6 +21,7 @@ When you first access Scheduler you will see a page much like this:
 
 .. image:: public.png
    :scale: 75%
+   :align: center
 
 It is showing the school's public calendar, which is available
 for anyone to view. Note the buttons at top left for moving forwards or
@@ -47,6 +48,7 @@ You should then see a screen much more like this:
 
 .. image:: loggedin.png
    :scale: 75%
+   :align: center
 
 The demonstration system treats you as being a fictional maths teacher -
 Simon Philpotts.  You will find you have full edit privileges to create
@@ -65,6 +67,7 @@ To tidy up the display, un-tick the check boxes against "My events" and
 
 .. image:: justme.png
    :scale: 75%
+   :align: center
 
 The system is now showing just Simon Philpotts's schedule, with one extra
 item creeping in.  At the top of Monday's column there is an entry for
@@ -87,6 +90,7 @@ about this entry, click on it.
 
 .. image:: coverlesson.png
    :scale: 75%
+   :align: center
 
 Similar details can be viewed for any event, but there are some extra
 bits here.  It says that SJP is covering for CED, and if you don't know
@@ -94,6 +98,8 @@ who CED is then you can hover your mouse over the initials to get that
 information.
 
 .. image:: hovertext.png
+   :scale: 75%
+   :align: center
 
 Claire has also attached a note to the lesson giving details of the required
 cover.  This particular note is visible only to staff, but the creator of
@@ -127,6 +133,7 @@ more information.
 
 .. image:: clashdetails.png
    :scale: 75%
+   :align: center
 
 A note has been added by the system listing the pupils who seem to be
 doing something else at the time.  5 pupils are going to be missing out
@@ -147,6 +154,7 @@ of the left-hand column.
 
 .. image:: predictiveinput.png
    :scale: 75%
+   :align: center
 
 Either keep typing his name, or select his name from the list which
 pops up, and James's schedule too will be added to the display.  To
@@ -154,6 +162,7 @@ avoid it getting too cluttered, un-tick the checkbox against SJP's name.
 
 .. image:: jamesgreenwood.png
    :scale: 75%
+   :align: center
 
 You can now see James's full schedule, including the Geography Field Trip.
 Note that his period 3 lesson on Monday has also been suspended for the

@@ -6,6 +6,10 @@
 Index
 =====
 
+.. image:: public.png
+   :scale: 35%
+   :align: right
+
 Xronos Scheduler - a scheduling program for schools.
 
 This documentation is a work in progress.
@@ -18,9 +22,6 @@ This documentation is a work in progress.
    tweaking
    reports
 
-.. image:: public.png
-   :scale: 75%
-
 
 Scheduler is licensed under the GNU General Public Licence, version 2.
 
@@ -32,7 +33,5 @@ timetabling program, try `Keith Johnson's Timetabler <http://www.timetabler.com>
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

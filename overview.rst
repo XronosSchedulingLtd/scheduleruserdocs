@@ -39,6 +39,7 @@ being public, but logged in users have far more control.
 
 .. image:: public.png
    :scale: 75%
+   :align: center
 
 Scheduler is designed to import whatever schedule information is available
 from your existing MIS - e.g. Timetable, Cover, Extra-Curricular activities -
@@ -50,5 +51,6 @@ identify free resources at a given time (e.g. an unused ICT room).
 
 .. image:: loggedin.png
    :scale: 75%
+   :align: center
 
 
