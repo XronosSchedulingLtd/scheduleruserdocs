@@ -65,14 +65,14 @@ Custom URL
 
 The base URL for generating a report is:
 
-<p class="ff-style-code">http://scheduler.abingdon.org.uk/item/&lt;number&gt;/days</p>
+<p class="ff-style-code">https://schedulerdemo.xronos.uk/item/&lt;number&gt;/days</p>
 
 To find out the relevant number for the item which you want, simply hover
 over one of the coloured boxes on the left hand side of the screen.
-As an example, the calendar's unique number is 17424, so if I wanted
+As an example, the calendar's unique number is 1, so if I wanted
 a report on calendar entries I would use:
 
-  http://scheduler.abingdon.org.uk/item/17424/days
+  https://schedulerdemo.xronos.uk/item/1/days
   
 which will generate a report on all the current entries in the calendar,
 looking like this:
@@ -82,7 +82,7 @@ Should you want to download the report, add either ".csv" or ".doc" to the
 end of the URL to get either a CSV file (suitable for a spreadsheet) or
 a DOC file (suitable for a word processor).
 
-  http://scheduler.abingdon.org.uk/item/17424/days.csv
+  https://schedulerdemo.xronos.uk/item/1/days.csv
   
 You can then tweak the report using the following available switches:
 
@@ -106,7 +106,7 @@ You can then tweak the report using the following available switches:
 Note that if you've used the ".csv" or ".doc" extensions, then the switches
 go *after* the extension, like this:
 
-  http://scheduler.abingdon.org.uk/item/17424/days.csv?compact
+  https://schedulerdemo.xronos.uk/item/1/days.csv?compact
   
 Details of the switches are as follows:
 
@@ -192,7 +192,7 @@ categories=
 Provide a comma-separated list of categories to which to restrict the
 selection.
 
-So a URL like this: http://scheduler.abingdon.org.uk/item/17424/days?twelve_hour&compact&duration&breaks&no_end_time
+So a URL like this: https://schedulerdemo.xronos.uk/item/1/days?twelve_hour&compact&duration&breaks&no_end_time
 
 would produce output like this:
 
