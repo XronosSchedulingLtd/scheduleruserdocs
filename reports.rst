@@ -25,13 +25,21 @@ To use the form, start by watching the item for which you want a report.
 See "Quick tour" for details of how to pick what you're watching.
 Then click on the coloured box for your chosen item in the left hand
 column. That will give you a screen like this - I've chosen to work with
-the Drama calendar:
+the school's public calendar.
+
+.. image:: calendarreport1.png
+   :scale: 75%
+   :align: center
 
 You'll notice that on this same page you can also customize the appearance
 for this resource, but the bit that we're interested in here is the report.
 This will generate for you a list of events for the selected resource.
 If you immediately go on and click "Generate" you'll get something like
 this:
+
+.. image:: calendarreport2.png
+   :scale: 75%
+   :align: center
 
 This is the simplest form of the report - it starts at today, and goes as
 far into the future as there are events. Using the form you can specify
@@ -47,9 +55,11 @@ It's noticeable in the listing above that multiple events squeeze onto
 a single line, and there are days with no events at all. I can use the
 back button to return to the form, then select "Breaks" to add line breaks
 between events, and "Suppress empties" to remove empty days from the
-listing:
+listing and it then looks like this:
 
-and it then looks like this:
+.. image:: calendarreport3.png
+   :scale: 75%
+   :align: center
 
 For further explanation of what each of the tick boxes does, hover your
 mouse pointer over it and you will see some explanatory text.
@@ -64,6 +74,21 @@ As always, to get back to the normal calendar display, click on the
 ----------
 Custom URL
 ----------
+
+Those of a technical bent will have noticed that when you use the form
+above to generate a report, it actually constructs a custom URL using
+all the options which you have chosen from the form.
+
+The URL for the last report shown above is:
+
+  https://schedulerdemo.xronos.uk/item/1/days?breaks&suppress_empties
+
+This can be useful if you want to save a direct link to a report
+for later use.
+
+This section documents all the different options which may appear in
+such a URL, but you are strongly recommended to use the form to
+automate the construction.
 
 The base URL for generating a report is:
 
