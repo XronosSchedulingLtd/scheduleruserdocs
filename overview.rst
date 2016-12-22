@@ -8,7 +8,13 @@ Overview
 Xronos Scheduler is a scheduling program designed primarily for use in
 schools, but potentially of use elsewhere.
 
-Its objective is to provide all the information which staff and pupils
+Think of it as being much
+like any other calendar program, but with structure added.  Instead of
+having lots of separate calendars it stores just one calendar - and keeps
+track of who and what is involved in each event.  You can then view
+any part of the calendar depending on what resources involves.
+
+The objective is to provide all the information which staff and pupils
 need about what's happening in the school and when *all in one place*
 and with the information already tailored to suit each individual user.
 Usually all this information already exists within the school, but it's

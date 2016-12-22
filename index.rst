@@ -17,10 +17,12 @@ This documentation is a work in progress.
 .. toctree::
 
    overview
+   background
    quicktour
    concepts
    tweaking
    reports
+   credits
 
 
 Scheduler is licensed under the GNU General Public Licence, version 2.

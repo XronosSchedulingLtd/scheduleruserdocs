@@ -113,6 +113,84 @@ a DOC file (suitable for a word processor).
   
 You can then tweak the report using the following available switches:
 
+.. csv-table:: Report switches
+   :header: "Switch", "Meaning"
+   :widths: 10, 40
+
+   compact, "Hello there - I'm a meaning"
+   duration, "This one too has a meaning, of sorts."
+
+
++-------------------+-------------------------------------+
+| Switch            | Meaning                             |
++===================+=====================================+
+| compact           | Hello there - I'm a meaning         |
++-------------------+-------------------------------------+
+| duration          | And here's another.                 |
++-------------------+-------------------------------------+
+
+
+
+
+========  =======================================
+Switch     Meaning
+========  =======================================
+compact   What happens if my words go on too far?
+
+          Can I have more than one line of text
+
+          associated with the same bit on the left?
+duration  And this one does too.
+========  =======================================
+
+
+
+.. list-table:: Report switches
+   :widths: 60 220
+   :header-rows: 1
+
+   * - Switch
+     - Meaning
+   * - compact
+     - words of explanation
+   * - duration
+     - words of explanation.  In fact, quite a lot of explanation.
+       More than enough to fill the full width of the box and then
+       wrap onto a following line.  Will it mess up and squeeze the
+       left hand column?
+
+       A fresh paragraph.
+   * - mark_end
+     - words of explanation
+   * - locations
+     - words of explanation
+   * - staff
+     - words of explanation
+   * - pupils
+     - words of explanation
+   * - periods
+     - words of explanation
+   * - start_date=
+     - words of explanation
+   * - end_date=
+     - words of explanation
+   * - twelve_hour
+     - words of explanation
+   * - no_end_time
+     - words of explanation
+   * - breaks
+     - words of explanation
+   * - suppress_empties
+     - words of explanation
+   * - tentative
+     - words of explanation
+   * - firm
+     - words of explanation
+   * - categories=
+     - words of explanation
+
+
+
 * compact
 * duration
 * mark_end

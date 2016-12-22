@@ -181,6 +181,14 @@ a pupil changes set in the middle of a week then the schedule will reflect
 this, showing lessons in one set at the start of the week, and lessons
 in the other at the end.
 
+Look closely at James Greenwood's maths lessons on Monday, Tuesday,
+Thursday and Friday.  On Monday and Tuesday he is in 11 Mat3 
+with David Jones in L102.  On Thursday and Friday he is in 11 Mat4
+with Simon Philpotts in L101.  (Click on the individual
+event entries to get this level of detail.)  The system knows that
+James changed maths sets mid week, and the display of his schedule
+reflects this.
+
 Scheduler understands that the population of groups - particularly
 teaching sets - changes over time.  It doesn't store just a list of members
 but full details of the group's population at any given moment in its
