@@ -12,6 +12,10 @@ Quick tour
    logging you in, the whole database is reset every night and it will
    then be deleted.  It will not be used for any other purpose.
 
+   The demonstration contains just one week's worth of data (always
+   the current week) for a fictional school.  It's far from being
+   a complete set of data, but enough to see how it works.
+
 
 ===========
 Public view
