@@ -66,7 +66,9 @@ school's normal timetable.  You can enter this information as an
 Exam Template.  From the menu icon in the top bar, choose
 Menu => Exams => Template, and then click on the "New Rota template"
 button.  Enter a name for it (e.g. "Internal examinations") and 
-click on "Create".  You will then see a screen like this:
+click on "Create".
+
+You will then see a screen like this:
 
 .. image:: blankrotatemplate.png
    :scale: 75%
@@ -209,7 +211,9 @@ Once a few slots have been filled, the staff listing gets more interesting.
 In this listing, we can see that Denise Rowstock might be the first
 choice because she would otherwise have been teaching year 11, but
 she's already been given 2 invigilation slots today.  Simon Philpotts
-has done only 1, so he might be preferable.
+has done only 1, so he might be preferable.  (This demonstration school
+has an unfeasibly small number of staff, which is why they are getting
+so many slots each.)
 
 The final decision is as always best done by someone who knows the
 school, but the program can help a lot in providing sorted lists.
@@ -223,7 +227,7 @@ Once the invigilation slots have been allocated they will appear immediately
 on the schedules of the individual members of staff.
 
 They can also be printed out using the usual event reporting facilites,
-and they individual e-mail notifications can be sent.
+and individual e-mail notifications can be sent.
 
 To send out e-mails, choose Menu => Exams => Notify and you'll get a
 form like this.
