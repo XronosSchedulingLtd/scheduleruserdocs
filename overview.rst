@@ -12,7 +12,7 @@ Think of it as being much
 like any other calendar program, but with structure added.  Instead of
 having lots of separate calendars it stores just one calendar - and keeps
 track of who and what is involved in each event.  You can then view
-any part of the calendar depending on what resources involves.
+any part of the calendar depending on what resources it involves.
 
 The objective is to provide all the information which staff and pupils
 need about what's happening in the school and when *all in one place*
