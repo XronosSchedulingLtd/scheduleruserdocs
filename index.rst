@@ -22,6 +22,7 @@ This documentation is a work in progress.
    concepts
    tweaking
    reports
+   exams
    credits
 
 
