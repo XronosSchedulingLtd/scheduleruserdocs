@@ -151,8 +151,8 @@ Note that the number of events in each room has now appeared, and the
 
 As far as possible, a "Regenerate" is non-destructive.  If you haven't
 changed anything then nothing will be lost.  However, if you have deleted a
-slot from the template then the corresponding slot (and all the invigilators
-will be deleted from your exam cycle).
+slot from the template then the corresponding slot (and all the invigilators)
+will be deleted from your exam cycle.
 
 Re-generation can be very useful if, for instance, you want to add an
 extra slot, or perhaps move a whole cycle of exams from one room to
