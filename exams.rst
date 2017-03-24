@@ -175,8 +175,10 @@ entries we see all the slots which we have requested in the two rooms.
 
 
 Note that there is a single event for each room and slot, and currently
-they each have a red flag because they are short of invigilators.  By
-clicking on one of these events, you can start allocating invigilators.
+they each have a red flag because they are short of invigilators.  These
+flags are visible only to nominated exams officers - they don't appear
+to normal users. By clicking on one of these events, you can start
+allocating invigilators.
 
 .. image:: firstinvig.png
    :scale: 75%
