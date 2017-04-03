@@ -1,5 +1,5 @@
 Credits
-==============
+=======
 
 Scheduler is written in Ruby, using the Rails application framework.
 
