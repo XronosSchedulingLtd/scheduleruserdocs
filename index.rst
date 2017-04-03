@@ -21,6 +21,7 @@ This documentation is a work in progress.
    quicktour
    concepts
    tweaking
+   events
    reports
    exams
    contact
