@@ -217,9 +217,19 @@ has done only 1, so he might be preferable.  (This demonstration school
 has an unfeasibly small number of staff, which is why they are getting
 so many slots each.)
 
+.. note::
+
+   It can happen that you want to allocate someone to an invigilation
+   slot even though the relevant individual isn't actually free at the
+   time.  For example, it might be a requirement to have the head of
+   maths present at the start of a maths exam.
+
+   The "Extra resource" box at the bottom of the list of allocated staff
+   allows you to override the system's advice and add any member of staff
+   as an invigilator for the current slot.
+
 The final decision is as always best done by someone who knows the
 school, but the program can help a lot in providing sorted lists.
-
 
 ------------
 Notification
