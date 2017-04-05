@@ -55,6 +55,13 @@ who doesn't do invigilation.
 By basing the group on another group like this, you can make sure it
 updates dynamically as staff arrive or leave.
 
+You are strongly advised *not* to use an existing system group directly
+in the exam cycle to provide your invigilators - you will almost certainly
+find later that you want to add or remove someone.
+
+By creating your own group based
+on a system group as shown here, you gain much more flexibility.
+
 
 ---------------
 Timing of slots
@@ -85,9 +92,16 @@ for different days of the week if you want to.
 In the above screen, we don't have any slots on Wednesday afternoons.
 
 You can add or remove the slots until you have the correct configuration,
-then click on "Done".  You will probably want to set up just a couple
-of rota templates (internal and external exams?) and then re-use them
-over many exam cycles.
+then click on "Done".
+
+You may want to set up more than one template to reflect the different
+ways in which you organise different exam sessions.  For instance, one
+might have exam slots all day, whilst another had them only in the
+morning, or only on certain days of the week.  You can create as many
+templates as you need to reflect your own particular organisation.
+
+Templates can be used for just a single exam session, or re-used over
+many if your timing requirements stay the same.
 
 
 -----------

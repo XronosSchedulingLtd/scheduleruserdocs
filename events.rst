@@ -16,6 +16,10 @@ people, places and services - involved in it.
    Scheduler is interested in the *resources* which each event uses.
    An event with no resources might as well not be there.
 
+--------
+Creating
+--------
+
 To create a new event in the system, simply click on the relevant date
 and time, or click and drag to set both a start and an end time.  All-day
 events can be entered by clicking in the all-day section at the top of
@@ -56,6 +60,10 @@ a different person, and it can be useful to know who the right
 contact is.  Finally, the Reference field allows extra text to be
 entered if needed.
 
+----------------
+Adding resources
+----------------
+
 Once you click on the Create button, the dialogue changes slightly -
 a new field appears at the bottom.  The event now exists, and resources
 can be assigned to it.
@@ -93,11 +101,28 @@ school calendar.  The relevant people will have been notified, and
 once the event has been approved it will then appear.  For now, only
 Simon Philpotts will be able to see it in the context of the Calendar.
 
+To finish off editing the event, click on the Update button and you
+will be taken to a dialogue showing full details of the event.
+
 .. image:: enterevent5.png
    :scale: 75%
    :align: center
 
 Notice that it's there, but greyed out to indicate that it's incomplete.
+
+-------
+Editing
+-------
+
+You can edit any event which you have created, plus your system
+administrator may give you permission to edit others.  To edit an
+existing event, simply click on it and you'll get shown additional
+information about the event.  Provided you have the appropriate
+permissions there will also be an "Edit" link on the left hand side.
+
+---------
+Adjusting
+---------
 
 Remember that this event originally had no explicit end time?  Now the
 bottom edge of the box can be dragged up and down to set a duration.
@@ -105,6 +130,16 @@ bottom edge of the box can be dragged up and down to set a duration.
 .. image:: enterevent6.png
    :scale: 75%
    :align: center
+
+You can also drag the whole box to a different time, or a different day.
+To make it an all-day event, drag it up into the "all-day" section at
+the top of the day's column.
+
+.. note::
+   If you want to move an event from one day to another whilst
+   retaining the same timing it can be helpful to do it from the
+   "Month" view of the schedule.  That way you can see more days,
+   and now matter how you drag, the times of the event won't change.
 
 If you want to set up an event for a specific resource, you can short-cut
 the process by dragging the required resource from the left-hand column
