@@ -168,6 +168,12 @@ changed anything then nothing will be lost.  However, if you have deleted a
 slot from the template then the corresponding slot (and all the invigilators)
 will be deleted from your exam cycle.
 
+.. warning::
+   If you edit the exam cycle record, change it to use a different
+   template and then click "Regenerate", all your existing events
+   will go and be replaced with new ones, even if the two templates
+   share some common time slots.
+
 Re-generation can be very useful if, for instance, you want to add an
 extra slot, or perhaps move a whole cycle of exams from one room to
 another.  Just edit the corresponding line on this screen, change the
