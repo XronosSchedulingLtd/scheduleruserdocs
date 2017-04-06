@@ -23,7 +23,7 @@ This documentation is a work in progress.
    tweaking
    events
    reports
-   exams
+   invigilation
    contact
    credits
 

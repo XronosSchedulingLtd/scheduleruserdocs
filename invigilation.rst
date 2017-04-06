@@ -71,7 +71,7 @@ Your school will have its own idea of how long an invigilation slot
 should last and when they will be.  Quite likely this will reflect your
 school's normal timetable.  You can enter this information as an
 Exam Template.  From the menu icon in the top bar, choose
-Menu => Exams => Template, and then click on the "New Rota template"
+Menu => Invigilation => Template, and then click on the "New Rota template"
 button.  Enter a name for it (e.g. "Internal examinations") and 
 click on "Create".
 
@@ -111,7 +111,7 @@ Exam cycles
 An exam cycle represents an actual period of exams.  Typical examples
 would be "4th year exams" or "Public exams, summer 2017".
 
-To set one up, the exams officer should choose Menu => Exams => Cycles,
+To set one up, the exams officer should choose Menu => Invigilation => Cycles,
 and then click on the "New Exam Cycle" button.
 
 .. image:: examcycleform.png
@@ -261,7 +261,7 @@ on the schedules of the individual members of staff.
 They can also be printed out using the usual event reporting facilites,
 and individual e-mail notifications can be sent.
 
-To send out e-mails, choose Menu => Exams => Notify and you'll get a
+To send out e-mails, choose Menu => Invigilation => Notify and you'll get a
 form like this.
 
 
