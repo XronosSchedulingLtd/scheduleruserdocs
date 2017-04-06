@@ -27,7 +27,7 @@ The whole job can be broken down into a number of distinct steps:
 * Record which rooms are to be used
 * Generate the event records
 * Allocate the right number of staff for each location and time
-* Tweaking
+* Notification
 
 A system administrator can nominate one or more users to act as exams
 officers.  Once this is done, any of them can do any of the following
@@ -261,7 +261,7 @@ on the schedules of the individual members of staff.
 They can also be printed out using the usual event reporting facilites,
 and individual e-mail notifications can be sent.
 
-To send out e-mails, choose Menu => Invigilation => Notify and you'll get a
+To send out e-mails, choose Menu => Invigilation => E-mails and you'll get a
 form like this.
 
 
@@ -288,3 +288,16 @@ Click on the "Go" button and you should see a screen much like this:
 
 Your users will have been sent individual e-mails asking them to
 cover their particular invigilation slots.
+
+-------
+Clashes
+-------
+
+You can also check for clashes affecting your invigilation allocations.
+These can arise for two reasons:
+
+* You've overridden the system's list of free staff to cover a slot
+* Fresh events have been entered into the system after the staff were chosen.
+
+To check for clashes, use Menu => Invigilation => Clashes and after
+a short delay you'll get a list any potential clashes on your screen.
