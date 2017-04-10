@@ -251,6 +251,14 @@ so many slots each.)
 The final decision is as always best done by someone who knows the
 school, but the program can help a lot in providing sorted lists.
 
+.. hint::
+   If you are going to allocate specific people to certain invigilation
+   slots (.e.g the head of maths to start a maths exam) then do these
+   allocations first, before you do the general
+   just-need-four-people-who-are-free ones.  That way they can be
+   taken into account when calculating the loading for the later
+   allocations.
+
 ------------
 Notification
 ------------
