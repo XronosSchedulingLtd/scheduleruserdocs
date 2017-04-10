@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- saved from url=(0094)http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/using-groups/pre-populated-groups -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Pre-populated groups
+					- 
+					Abingdon</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<base href="http://abingdon.fireflycloud.net/">--><base href="."><script type="text/javascript">var ffBaseURL = 'http://abingdon.fireflycloud.net/'; var ffBaseTURL = 'Templates/Nautilus'; var ffPageID = "8918";var ffSiteCode='ABINGDON';var ffCloudServices=true;var ffLoggedIn=true;
+      var ffAdminURL = 'Admin';
+    </script><script>
+      (function() {
+        var ua = navigator.userAgent.toLowerCase();
+        var ie = (ua.indexOf('msie') != -1) ? parseInt(ua.split('msie')[1]) : false;
+        if (ie) {
+          document.documentElement.className += ' ie' + ie;
+        }
+      })()
+    </script><meta name="ff:id" content="8918">
+    <meta name="ff:section_id" content="1249">
+    <meta name="ff:site_id" content="0">
+    <meta name="ff:site_code" content="ABINGDON">
+    <meta name="ff:title" content="Pre-populated groups">
+    <meta name="ff:url" content="%2fict-and-elearning%2fscheduler%2fusing-groups%2fpre-populated-groups">
+    <meta name="ff:legacy4Template" content="false">
+    <meta name="ff:createEndpoint" content="/ict-and-elearning/scheduler/using-groups/pre-populated-groups/_edit/pages">
+    <meta name="ff:loggedIn" content="true">
+    <meta name="ff:basePath" content="http://abingdon.fireflycloud.net/">
+    <meta name="ff:templatePath" content="Templates/Nautilus">
+    <meta name="ff:cloudServices" content="true">
+    <meta name="ff:resourceFolder_id" content="22792">
+    <meta name="ff:version" content="7b838912d6f602498696c116e9941357">
+    <meta name="ff:type" content="normal">
+    <meta name="ff:contentUrl" content="/ict-and-elearning/scheduler/using-groups/pre-populated-groups">
+    <meta name="ff:starteditor" content="no">
+    <meta name="ff:layout" content="">
+    <meta name="ff:canPublish" content="true">
+    <meta name="ff:editEndpoint" content="/ict-and-elearning/scheduler/using-groups/pre-populated-groups/_edit">
+    <meta name="ff:templateEndpoint" content="/ict-and-elearning/scheduler/using-groups/pre-populated-groups/_edit/templates">
+    <meta name="ff:permissionsEndpoint" content="/ict-and-elearning/scheduler/using-groups/pre-populated-groups/_edit/permissions">
+    <meta name="ff:isDraft" content="false">
+    <meta name="ff:unpublishedChanges" content="false">
+    <meta name="description" content="">
+    <meta property="og:title" content="Pre-populated groups - Abingdon">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Abingdon">
+    <link rel="stylesheet" type="text/css" href="./Using groups - Abingdon_files/fdd8067157f16099ae9dbb9fcd249960.css">
+    
+    <script type="text/javascript" src="./Using groups - Abingdon_files/5c6c0ca61f01b29a86f4ae98e4b3d7a6.js"></script></head></html>

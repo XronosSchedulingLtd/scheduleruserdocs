@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference -->
+<html class=" ff-hasjs"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Reference
+					- 
+					Abingdon</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<base href="http://abingdon.fireflycloud.net/">--><base href="."><script type="text/javascript" async="" src="./Reference - Abingdon_files/heap-2986378716.js"></script><script type="text/javascript">var ffBaseURL = 'http://abingdon.fireflycloud.net/'; var ffBaseTURL = 'Templates/Nautilus'; var ffPageID = "8929";var ffSiteCode='ABINGDON';var ffCloudServices=true;var ffLoggedIn=true;
+      var ffAdminURL = 'Admin';
+    </script><script>
+      (function() {
+        var ua = navigator.userAgent.toLowerCase();
+        var ie = (ua.indexOf('msie') != -1) ? parseInt(ua.split('msie')[1]) : false;
+        if (ie) {
+          document.documentElement.className += ' ie' + ie;
+        }
+      })()
+    </script><meta name="ff:id" content="8929">
+    <meta name="ff:section_id" content="1249">
+    <meta name="ff:site_id" content="0">
+    <meta name="ff:site_code" content="ABINGDON">
+    <meta name="ff:title" content="Reference">
+    <meta name="ff:url" content="%2fict-and-elearning%2fscheduler%2freference">
+    <meta name="ff:legacy4Template" content="false">
+    <meta name="ff:createEndpoint" content="/ict-and-elearning/scheduler/reference/_edit/pages">
+    <meta name="ff:loggedIn" content="true">
+    <meta name="ff:basePath" content="http://abingdon.fireflycloud.net/">
+    <meta name="ff:templatePath" content="Templates/Nautilus">
+    <meta name="ff:cloudServices" content="true">
+    <meta name="ff:resourceFolder_id" content="22885">
+    <meta name="ff:version" content="40d2f4b42650d04c8e0e06800fb25489">
+    <meta name="ff:type" content="normal">
+    <meta name="ff:contentUrl" content="/ict-and-elearning/scheduler/reference">
+    <meta name="ff:starteditor" content="no">
+    <meta name="ff:layout" content="">
+    <meta name="ff:canPublish" content="true">
+    <meta name="ff:editEndpoint" content="/ict-and-elearning/scheduler/reference/_edit">
+    <meta name="ff:templateEndpoint" content="/ict-and-elearning/scheduler/reference/_edit/templates">
+    <meta name="ff:permissionsEndpoint" content="/ict-and-elearning/scheduler/reference/_edit/permissions">
+    <meta name="ff:isDraft" content="false">
+    <meta name="ff:unpublishedChanges" content="false">
+    <meta name="description" content="">
+    <meta property="og:title" content="Reference - Abingdon">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Abingdon">
+    <link rel="stylesheet" type="text/css" href="./Reference - Abingdon_files/fdd8067157f16099ae9dbb9fcd249960.css">
+    
+    <script type="text/javascript" src="./Reference - Abingdon_files/5c6c0ca61f01b29a86f4ae98e4b3d7a6.js"></script><script type="text/javascript"></script>
+    <link rel="stylesheet" href="./Reference - Abingdon_files/ff-editor.css">
+    <script type="text/javascript">
+              $(document).ready(function(){
+
+
+               $('body').trigger("click");
+              });
+
+
+          </script><script async="" defer="" src="./Reference - Abingdon_files/DB-Cloud-DB-iSAMSpeople-753.js" data-ff-productsurvey-email="john.winters@abingdon.org.uk"></script><script type="text/javascript">
+        window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])}; 
+       
+      heap.load("2986378716");
+      
+        if (getCookie) {
+        if (getCookie('ffHeapID') != 'DB:Cloud:DB:iSAMSpeople:753@abingdon.fireflycloud.net') {
+          heap.identify('DB:Cloud:DB:iSAMSpeople:753@abingdon.fireflycloud.net');
+          heap.addUserProperties({role: 'teacher', site: location.hostname});
+          if (setTempCookie) setTempCookie('ffHeapID', 'DB:Cloud:DB:iSAMSpeople:753@abingdon.fireflycloud.net');
+        } }
+      </script><meta name="viewport" content="width=device-width, initial-scale=1"><script></script><script type="text/javascript" src="./Reference - Abingdon_files/jquery.jswipe.js"></script></head>
+  <body class="layout-has-pagemenu pagetype-normal plugin-preferences    ff5 ">
+    <div id="ff-browser-support-message" style="display: none;">
+      <p class="ff-browser-support-message__headline">Firefly needs a modern browser, so you may notice things look broken right now.</p>
+      <p class="ff-browser-support-message__browsers">To get a better experience, <a href="http://help.fireflylearning.com/project-leads/planning-the-project/preparing-the-system/supported-browsers">try one of the supported browsers listed here.</a></p>
+    </div>
+    <div class="ff-userbar">
+      <div class="ff-ub-wrapper">
+        <div class="ff-ub-title"><span>Firefly</span></div>
+        <div class="ff-ub-nothing-new">
+          <div class="ff-ub-nothing-new-placeholder"></div>
+        </div><nav class="ff-ub-nav"><ul class="ff-ub-level-0">
+            <li class="ff-ub-dashboards ff-ub-has-children"><a href="http://abingdon.fireflycloud.net/">Dashboards</a><ul class="ff-ub-level-1">
+                <li class="ff-ub-dashboard "><a href="http://abingdon.fireflycloud.net/dashboard">Dashboard</a></li>
+                <li class="ff-ub-dashboard-2015 "><a href="http://abingdon.fireflycloud.net/dashboard-2015">Dashboard 2015</a></li>
+              </ul>
+            </li>
+            <li class="ff-ub-your-tasks ff-ub-has-children"><a href="http://abingdon.fireflycloud.net/">Tasks</a><ul class="ff-ub-level-1">
+                <li class=""><a href="http://abingdon.fireflycloud.net/set-tasks">Manage Set Tasks</a></li>
+                <li class=""><a href="http://abingdon.fireflycloud.net/tasks">Your Tasks</a></li>
+              </ul>
+            </li>
+            <li class="ff-ub-bookmarks "><a href="http://abingdon.fireflycloud.net/bookmarks">Bookmarks</a></li>
+            <li class="ff-ub-username ff-ub-has-children"><a href="http://abingdon.fireflycloud.net/"><img class="ff-ub-username-profilepic" src="./Reference - Abingdon_files/profilepic.aspx"><span class="ff-ub-username-text">John Winters</span></a><ul class="ff-ub-level-1">
+                <li class="ff-ub-account-settings "><a href="javascript:ShowDialog(&#39;Admin/accountsettings.aspx?site_id=0&amp;fromurl=http%3a%2f%2fabingdon.fireflycloud.net%2fpage.aspx%3fid%3d8929&#39;);">Account Settings</a></li>
+                <li class="ff-ub-browse-profiles "><a href="http://abingdon.fireflycloud.net/profiles">Browse Profiles</a></li>
+                <li class="ff-ub-your-profile "><a href="http://abingdon.fireflycloud.net/profile?guid=DB:Cloud:DB:iSAMSpeople:753">Your Profile</a></li>
+                <li class="ff-ub-personal-section "><a href="http://abingdon.fireflycloud.net/Admin/sectionsCreatePersonal.aspx?site_id=0">Personal Section</a></li>
+                <li class="ff-ub-messages "><a href="http://abingdon.fireflycloud.net/messages">Messages</a></li>
+                <li class="ff-ub-updates "><a href="http://abingdon.fireflycloud.net/updates">Updates</a></li>
+                <li class="ff-ub-view-site-as "><a href="javascript:ShowImpersonate()">View site as...</a></li>
+                <li class="ff-ub-log-out "><a href="http://abingdon.fireflycloud.net/logout">Log out</a></li>
+              </ul>
+            </li>
+          </ul></nav></div>
+    </div>
+    <div class="wrapper"><header id="school-header"><a href="http://abingdon.fireflycloud.net/" rel="home"><img src="./Reference - Abingdon_files/logo.png" class="school-logo" alt="/page/site_title"></a><div class="search-container" id="search-container">
+          <form id="search" action="http://abingdon.fireflycloud.net/search.aspx"><input type="search" name="query" placeholder="Search this site" autocomplete="off"><input type="hidden" name="site_id" value="0"></form>
+        </div></header><section id="the-page"><header id="section-header"><img src="./Reference - Abingdon_files/resource.aspx" class="section-image"><div class="section-title">ICT and eLearning</div></header><nav id="section-menu"><div class="ff-nav-sections" data-ff-nav="sections" data-ff-editable="yes">
+            <ul class="ff-nav-level-0">
+              <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#sections">Browse Site</a><ul class="ff-nav-level-1" id="sections">
+                  <li data-ff-id="0" class="ff-nav-home"><a href="http://abingdon.fireflycloud.net/"><span>Home</span></a></li>
+                  <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-2" aria-haspopup="true">Subjects</a><ul id="section-id-2" class="ff-nav-level-2">
+                      <li data-ff-id="14" class=""><a href="http://abingdon.fireflycloud.net/art">Art</a></li>
+                      <li data-ff-id="31" class=""><a href="http://abingdon.fireflycloud.net/biology">Biology</a></li>
+                      <li data-ff-id="65" class=""><a href="http://abingdon.fireflycloud.net/business-studies">Business Studies</a></li>
+                      <li data-ff-id="32" class=""><a href="http://abingdon.fireflycloud.net/chemistry">Chemistry</a></li>
+                      <li data-ff-id="15" class=""><a href="http://abingdon.fireflycloud.net/classics">Classics</a></li>
+                      <li data-ff-id="21" class=""><a href="http://abingdon.fireflycloud.net/computing">Computing</a></li>
+                      <li data-ff-id="72" class=""><a href="http://abingdon.fireflycloud.net/design-technology">Design Technology</a></li>
+                      <li data-ff-id="16" class=""><a href="http://abingdon.fireflycloud.net/drama">Drama</a></li>
+                      <li data-ff-id="17" class=""><a href="http://abingdon.fireflycloud.net/economics">Economics</a></li>
+                      <li data-ff-id="18" class=""><a href="http://abingdon.fireflycloud.net/english">English</a></li>
+                      <li data-ff-id="24" class=""><a href="http://abingdon.fireflycloud.net/french">French</a></li>
+                      <li data-ff-id="19" class=""><a href="http://abingdon.fireflycloud.net/geography">Geography</a></li>
+                      <li data-ff-id="25" class=""><a href="http://abingdon.fireflycloud.net/german">German</a></li>
+                      <li data-ff-id="20" class=""><a href="http://abingdon.fireflycloud.net/history">History</a></li>
+                      <li data-ff-id="26" class=""><a href="http://abingdon.fireflycloud.net/italian">Italian</a></li>
+                      <li data-ff-id="34" class=""><a href="http://abingdon.fireflycloud.net/lower-school-science">Lower School Science</a></li>
+                      <li data-ff-id="27" class=""><a href="http://abingdon.fireflycloud.net/mandarin">Mandarin</a></li>
+                      <li data-ff-id="22" class=""><a href="http://abingdon.fireflycloud.net/maths">Maths</a></li>
+                      <li data-ff-id="23" class=""><a href="http://abingdon.fireflycloud.net/music">Music</a></li>
+                      <li data-ff-id="33" class=""><a href="http://abingdon.fireflycloud.net/physics">Physics</a></li>
+                      <li data-ff-id="30" class=""><a href="http://abingdon.fireflycloud.net/psychology">Psychology</a></li>
+                      <li data-ff-id="64" class=""><a href="http://abingdon.fireflycloud.net/rs-and-philosophy">RS &amp; Philosophy</a></li>
+                      <li data-ff-id="28" class=""><a href="http://abingdon.fireflycloud.net/spanish">Spanish</a></li>
+                      <li data-ff-id="29" class=""><a href="http://abingdon.fireflycloud.net/sport-and-pe">Sport &amp; PE</a></li>
+                    </ul>
+                  </li>
+                  <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-4" aria-haspopup="true">Other Half</a><ul id="section-id-4" class="ff-nav-level-2">
+                      <li data-ff-id="36" class=""><a href="http://abingdon.fireflycloud.net/ccf">CCF</a></li>
+                      <li data-ff-id="50" class=""><a href="http://abingdon.fireflycloud.net/music-1">Music</a></li>
+                      <li data-ff-id="35" class=""><a href="http://abingdon.fireflycloud.net/societies">Societies</a></li>
+                      <li data-ff-id="51" class=""><a href="http://abingdon.fireflycloud.net/sport">Sport</a></li>
+                      <li data-ff-id="61" class=""><a href="http://abingdon.fireflycloud.net/d-of-e">D of E</a></li>
+                    </ul>
+                  </li>
+                  <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-6" aria-haspopup="true">Houses</a><ul id="section-id-6" class="ff-nav-level-2">
+                      <li data-ff-id="1271" class=""><a href="http://abingdon.fireflycloud.net/boarding">Boarding</a></li>
+                      <li data-ff-id="46" class=""><a href="http://abingdon.fireflycloud.net/austin">Austin</a></li>
+                      <li data-ff-id="41" class=""><a href="http://abingdon.fireflycloud.net/borders">Border's</a></li>
+                      <li data-ff-id="45" class=""><a href="http://abingdon.fireflycloud.net/crescent">Crescent</a></li>
+                      <li data-ff-id="42" class=""><a href="http://abingdon.fireflycloud.net/franklins">Franklin's</a></li>
+                      <li data-ff-id="44" class=""><a href="http://abingdon.fireflycloud.net/jamess">James's</a></li>
+                      <li data-ff-id="48" class=""><a href="http://abingdon.fireflycloud.net/lower-school">Lower School</a></li>
+                      <li data-ff-id="49" class=""><a href="http://abingdon.fireflycloud.net/morgans">Morgan's</a></li>
+                      <li data-ff-id="40" class=""><a href="http://abingdon.fireflycloud.net/odohertys">O'Doherty's</a></li>
+                      <li data-ff-id="47" class=""><a href="http://abingdon.fireflycloud.net/school">School</a></li>
+                      <li data-ff-id="43" class=""><a href="http://abingdon.fireflycloud.net/southwell-sanders">Southwell-Sander's</a></li>
+                    </ul>
+                  </li>
+                  <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-12" aria-haspopup="true">School Life</a><ul id="section-id-12" class="ff-nav-level-2">
+                      <li data-ff-id="52" class=""><a href="http://abingdon.fireflycloud.net/careers">Careers</a></li>
+                      <li data-ff-id="1315" class=""><a href="http://abingdon.fireflycloud.net/charities">Charities</a></li>
+                      <li data-ff-id="63" class=""><a href="http://abingdon.fireflycloud.net/efl">EfL</a></li>
+                      <li data-ff-id="39" class=""><a href="http://abingdon.fireflycloud.net/elearning">eLearning</a></li>
+                      <li data-ff-id="1279" class=""><a href="http://abingdon.fireflycloud.net/inspectors">Inspectors</a></li>
+                      <li data-ff-id="1298" class=""><a href="http://abingdon.fireflycloud.net/leadership-opportunities">Leadership Opportunities</a></li>
+                      <li data-ff-id="62" class=""><a href="http://abingdon.fireflycloud.net/learning-support">Learning Support</a></li>
+                      <li data-ff-id="53" class=""><a href="http://abingdon.fireflycloud.net/library">Library</a></li>
+                      <li data-ff-id="1075" class=""><a href="http://abingdon.fireflycloud.net/middle-school">Middle School</a></li>
+                      <li data-ff-id="54" class=""><a href="http://abingdon.fireflycloud.net/personal-development-education">Personal Development Education</a></li>
+                      <li data-ff-id="1329" class=""><a href="http://abingdon.fireflycloud.net/school-council">School Council</a></li>
+                      <li data-ff-id="56" class=""><a href="http://abingdon.fireflycloud.net/school-policies">School Policies</a></li>
+                      <li data-ff-id="1045" class=""><a href="http://abingdon.fireflycloud.net/sixth-form">Sixth Form</a></li>
+                      <li data-ff-id="86" class=""><a href="http://abingdon.fireflycloud.net/university-admissions">University Admissions</a></li>
+                    </ul>
+                  </li>
+                  <li class="ff-nav-child-selected ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-8" aria-haspopup="true">Staff</a><ul id="section-id-8" class="ff-nav-level-2">
+                      <li data-ff-id="57" class=""><a href="http://abingdon.fireflycloud.net/bookings">Bookings</a></li>
+                      <li data-ff-id="78" class=""><a href="http://abingdon.fireflycloud.net/curriculum-and-timetable">Curriculum and Timetable</a></li>
+                      <li data-ff-id="11" class=""><a href="http://abingdon.fireflycloud.net/dha">DHA</a></li>
+                      <li data-ff-id="1328" class=""><a href="http://abingdon.fireflycloud.net/hands">H&amp;S</a></li>
+                      <li data-ff-id="1303" class=""><a href="http://abingdon.fireflycloud.net/health-centre">Health Centre</a></li>
+                      <li data-ff-id="1199" class=""><a href="http://abingdon.fireflycloud.net/hr">HR</a></li>
+                      <li data-ff-id="1249" class="ff-nav-selected "><a href="http://abingdon.fireflycloud.net/ict-and-elearning">ICT and eLearning</a></li>
+                      <li data-ff-id="9" class=""><a href="http://abingdon.fireflycloud.net/mcr">MCR</a></li>
+                      <li data-ff-id="85" class=""><a href="http://abingdon.fireflycloud.net/mfl-dept">MFL Dept</a></li>
+                      <li data-ff-id="38" class=""><a href="http://abingdon.fireflycloud.net/middle-master">Middle Master</a></li>
+                      <li data-ff-id="10" class=""><a href="http://abingdon.fireflycloud.net/sandbox">SandBox</a></li>
+                      <li data-ff-id="983" class=""><a href="http://abingdon.fireflycloud.net/staff-policies">Staff Policies</a></li>
+                      <li data-ff-id="921" class=""><a href="http://abingdon.fireflycloud.net/teaching-and-learning">Teaching and Learning</a></li>
+                      <li data-ff-id="1230" class=""><a href="http://abingdon.fireflycloud.net/trips">Trips</a></li>
+                    </ul>
+                  </li>
+                  <li class="ff-nav-has-children"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#section-id-67" aria-haspopup="true">Portal</a><ul id="section-id-67" class="ff-nav-level-2">
+                      <li data-ff-id="68" class=""><a href="http://abingdon.fireflycloud.net/study-site">Study Site</a></li>
+                      <li data-ff-id="1262" class=""><a href="http://abingdon.fireflycloud.net/abingdon-school-calendar">Abingdon School Calendar</a></li>
+                      <li data-ff-id="1405" class=""><a href="http://abingdon.fireflycloud.net/wifi">WiFi</a></li>
+                      <li data-ff-id="1410" class=""><a href="http://abingdon.fireflycloud.net/wifi-aps">WiFi APS</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div></nav><nav id="page-menu"><div class="ff-nav-pages" data-ff-nav="pages" data-ff-editable="yes">
+            <ul class="ff-nav-level-0">
+              <li class="ff-nav-haschildren"><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#pages"><span>Explore ICT and eLearning</span></a><ul class="ff-nav-level-1" id="pages">
+                  <li data-ff-id="5861" class="ff-nav-home ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning">ICT and eLearning</a></li>
+                  <li data-ff-id="9634" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/isams">iSAMS</a></li>
+                  <li data-ff-id="7895" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/technology-leader---inset-2015">Technology Leader - INSET 2015</a></li>
+                  <li data-ff-id="180" class="ff-page-writeable ff-nav-has-children ff-nav-children-hidden ff-nav-children-not-in-trail "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/ideas-and-guides">Ideas and guides</a></li>
+                  <li data-ff-id="5386" class="ff-page-writeable ff-nav-has-children ff-nav-children-hidden ff-nav-children-not-in-trail "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/getting-started-with-firefly">Getting started with Firefly</a></li>
+                  <li data-ff-id="9430" class="ff-nav-external ff-page-writeable "><a href="https://abingdon.fireflycloud.net/elearning/google-drive-and-docs">Using Google</a></li>
+                  <li data-ff-id="8677" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/projectors-and-apple-tv">Projectors and Apple TV</a></li>
+                  <li data-ff-id="7350" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/clickview-online">Clickview online</a></li>
+                  <li data-ff-id="7099" class="ff-page-writeable ff-nav-has-children ff-nav-children-hidden ff-nav-children-not-in-trail "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/staff-ipads">Staff iPads</a></li>
+                  <li data-ff-id="4811" class="ff-page-writeable ff-nav-has-children ff-nav-children-shown ff-nav-child-selected "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler">Scheduler</a><ul class="ff-nav-level-2 ">
+                      <li data-ff-id="8869" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/quick-tour">Quick tour</a></li>
+                      <li data-ff-id="8872" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/concepts">Concepts</a></li>
+                      <li data-ff-id="8941" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/tweaking-things">Tweaking things</a></li>
+                      <li data-ff-id="8868" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/schedule-feed">Schedule feed</a></li>
+                      <li data-ff-id="8911" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/finding-free-resources">Finding free resources</a></li>
+                      <li data-ff-id="8870" class="ff-page-writeable ff-nav-has-children ff-nav-children-hidden ff-nav-children-not-in-trail "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/using-groups">Using groups</a></li>
+                      <li data-ff-id="8873" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/entering-events">Entering events</a></li>
+                      <li data-ff-id="8874" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/creating-reports">Creating reports</a></li>
+                      <li data-ff-id="8929" class="ff-page-writeable ff-nav-selected "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference">Reference</a></li>
+                    </ul>
+                  </li>
+                  <li data-ff-id="7518" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/idoceo">iDoceo</a></li>
+                  <li data-ff-id="717" class="ff-page-writeable "><a href="http://abingdon.fireflycloud.net/ict-and-elearning/new-staff-induction">New Staff Induction</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="ff-nav-pages-add"><button type="button" data-command="cmdCreatePage" id="ff-nav-create-page">Create</button></div></nav><main id="main"><nav id="breadcrumb"><ul class="ff-nav-breadcrumb">
+              <li class="ff-nav-home"><a href="http://abingdon.fireflycloud.net/ict-and-elearning">ICT and eLearning</a></li>
+              <li><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler">Scheduler</a></li>
+              <li class="ff-nav-selected">Reference</li>
+            </ul></nav><section class="user-content"><div class="ff-content">
+              <h1 class="ff-global-title">Reference</h1>
+              <div class="ff-post ff-post-editable ff-post-new">
+                <div class="ff-post-content">
+                  <div class="ff-container" id="ffContainer">
+                    <div data-ff-component-type="html" class="  odd component ff-component ff-component-type-html" id="ffComponent_127863"><h3>Event categories</h3><p class="leading">General event categories</p><p>The following categories are available for anyone to use.</p></div>
+                    <div data-ff-component-type="table" class="  ff-component-block even component ff-component ff-component-type-table" id="ffComponent_127879"><table class="ff-table-zebra"><thead><tr><th>Category</th><th>Explanation</th></tr></thead><tbody><tr><td>Activity</td><td>A fairly broad category which can be used as a catch-all for events involving boys which don't fit into a more precise category.</td></tr><tr><td>Admissions event</td><td>An event organised as part of the process of recruiting new students - e.g. an Open Day.</td></tr><tr><td>Date - other</td><td>Used to mark the date (or dates) when something is happening, without necessarily taking up the whole of the indicated time. &nbsp;An obvious example would be to note the week in which music exams are taking place.</td></tr><tr><td>Event set-up</td><td>Overhead time needed to set things up in preparation for an event.</td></tr><tr><td>Exam</td><td>Self-explanatory</td></tr><tr><td>External letting</td><td>Self-explanatory</td></tr><tr><td>Hospitality</td><td>Any event, the primary purpose of which is to provide hospitality to parents or others. &nbsp;E.g. Head's garden party.</td></tr><tr><td>INSET / Training</td><td>Self-explanatory</td></tr><tr><td>Interview / Audition</td><td>Self-explanatory</td></tr><tr><td>Lecture / talk</td><td>Self-explanatory</td></tr><tr><td>Lesson</td><td>Fairly obvious - most of these come direct from SchoolBase, but it's always possible that you might want to enter an extra lesson which you've arranged.</td></tr><tr><td>Maintenance</td><td>Time when maintenance work on the facilities is to be carried out.</td></tr><tr><td>Meal</td><td>Self-explanatory</td></tr><tr><td>Meeting</td><td><br></td></tr><tr><td>Music lesson</td><td><br></td></tr><tr><td>Performance</td><td>Any kind of performance - musical, drama or other.</td></tr><tr><td>Personal</td><td>Any time when you want to mark yourself as busy, for a reason not connected with the school - e.g. Dentist's appointment.</td></tr><tr><td>Practice / rehearsal</td><td><br></td></tr><tr><td>Religious service</td><td><br></td></tr><tr><td>Sport</td><td><br></td></tr><tr><td>Trip</td><td><br></td></tr></tbody></table></div>
+                    <div data-ff-component-type="html" class="  odd component ff-component ff-component-type-html" id="ffComponent_128063"><p class="leading">Privileged Event Categories</p><p>The following event categories can be selected only by administrative users. &nbsp;They have an effect on the appearance or functioning of the system.</p><ul><li>Assembly</li><li>Date - crucial</li><li>Duty</li><li>Hidden</li><li>Invigilation</li><li>Other Half</li><li>Parents' evening</li><li>Registration</li><li>Reporting deadline</li><li>Study leave</li><li>Supervised Study</li><li>SUS</li><li>Tutor period</li><li>Week letter</li></ul><h3>Controlled locations</h3><p>Some locations within the school are actively managed and thus need approval in order to be attached to events. &nbsp;Should you attach one of these locations to one of your events, you will see its name appear in amber. &nbsp;This is to indicate that the request is awaiting approval. &nbsp;The relevant person will be told that you want to use the room, and when your request is approved the entry will change to green. &nbsp;If you can't have the room at that time for some reason, then you'll get an e-mail back explaining why.</p></div>
+                    <div data-ff-component-type="table" class="  ff-component-block even component ff-component ff-component-type-table" id="ffComponent_127852"><table class="ff-table-zebra"><thead><tr><th>Location</th><th>Approver</th></tr></thead><tbody><tr><td>A202 / Ingham Room</td><td>Nick Lloyd, George Killick</td></tr><tr><td>A221 / Drama studio</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Admin Hub Meeting Room</td><td>Reception</td></tr><tr><td>Amey Theatre</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Amey Theatre Foyer</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Activities Centre</td><td>Lou Hayden</td></tr><tr><td>Avernus</td><td>Catering</td></tr><tr><td>Charles Maude Room</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Cafe</td><td>Catering</td></tr><tr><td>Chapel</td><td>Lou Hayden</td></tr><tr><td>Dining Hall</td><td>Catering</td></tr><tr><td>Hospitality Suite</td><td>Sports centre staff</td></tr><tr><td>Library</td><td>Wendy Hole</td></tr><tr><td>Meeting room 1</td><td>Reception</td></tr><tr><td>Meeting room 2</td><td>Reception</td></tr><tr><td>Sports Centre Classroom</td><td>Sports centre staff</td></tr></tbody></table></div>
+                    <div data-ff-component-type="html" class="  odd component ff-component ff-component-type-html" id="ffComponent_127855"><h3>Controlled properties</h3><p>Likewise some properties need approval in order to be attached to events.</p></div>
+                    <div data-ff-component-type="table" class="  ff-component-block even component ff-component ff-component-type-table" id="ffComponent_127856"><table class="ff-table-zebra"><thead><tr><th>Property</th><th>Approver</th></tr></thead><tbody><tr><td>Calendar</td><td>DJD</td></tr><tr><td>Drama calendar</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Key date</td><td>DJD</td></tr><tr><td>Music calendar</td><td>Nick Lloyd, George Killick</td></tr><tr><td>Sport calendar</td><td>ASH, AMB</td></tr><tr><td>Twilight meetings etc.</td><td>DJD</td></tr></tbody></table></div>
+                    <div data-ff-component-type="html" class="  odd component ff-component ff-component-type-html" id="ffComponent_127859"><p><br></p><h3>Controlled services</h3></div>
+                    <div data-ff-component-type="table" class="  ff-component-block even component ff-component ff-component-type-table" id="ffComponent_127860"><table class="ff-table-zebra"><thead><tr><th>Service</th><th>Approver</th></tr></thead><tbody><tr><td>Catering</td><td><br></td></tr><tr><td>Cleaning</td><td><br></td></tr><tr><td>Parking</td><td><br></td></tr><tr><td>Porters</td><td><br></td></tr></tbody></table></div>
+                  </div>
+                </div>
+                <div class="ff-post-footer">
+                  <p>No Recommendations</p><a href="javascript:ShowDialog(&#39;Admin/recommendNew.aspx?page_id=8929&#39;)">Recommend this page</a></div>
+              </div>
+              <div class="ff-post-interaction">
+                <div class="ff-actions pagetoolsbtns ff-page-actions">
+                  <div class="ff-comment collapsible-hide"><button id="ffAddCommentBtn" class="ff-button collapsible ff-button-comment" data-ff-linked-id="ffAddComment" title="Add a public comment to this page"><span>Add comment</span></button><div class="ffInsertEditor ff-comment-form" id="ffAddComment" style="display: none">
+                      <form class="ff-form" action="http://abingdon.fireflycloud.net/comment.aspx" method="post" onsubmit="
+              javascript:
+              if (document.getElementById(&#39;ffAddCommentTextbox&#39;).value == &#39;&#39;) {
+              alert(&#39;Your reply was empty, please enter your comment before submitting.&#39;);
+              return false;
+              }
+            "><input type="hidden" name="page_id" value="8929"><label for="ffAddCommentTextbox">
+              Type in your
+              comment
+              below and click submit.
+              </label><div class="ff-comment-field-wrapper"><textarea name="body" class="ff-autosize" id="ffAddCommentTextbox" style="overflow-y: hidden; height: 3em;"></textarea></div><input type="submit" id="ffCommentSubmit" class="button button-default ff-button ff-comment-submit" value="Submit comment"></form><a href="http://abingdon.fireflycloud.net/ict-and-elearning/scheduler/reference#" class="collapsible-hide ff-message-close"><span>Close</span></a></div>
+                  </div><script>setupCollapsibleButtons('ff-comment')</script><ul class="ff-button ff-button-dropdown ff-button-follow">
+                    <li onclick=""><span>Follow</span><ul>
+                        <li id="dashboard-follow-page" class="ff-button-follow-page"><a href="javascript:DashboardFollowPage(8929)"><span>Follow Page</span></a></li>
+                        <li id="dashboard-follow-comments" class="ff-button-follow-comments"><a href="javascript:DashboardFollowComments(8929)"><span>Follow Comments</span></a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <ul class="ff-button ff-button-dropdown ff-button-bookmark">
+                    <li onclick=""><span>Bookmark</span><ul>
+                        <li id="dashboard-bookmark" class="ff-button-bookmark-page"><a href="javascript:DashboardBookmarkPage(8929)"><span>Bookmark Page</span></a></li>
+                        <li id="dashboard-recommend" class="ff-button-recommend-page"><a href="javascript:ShowDialog(&#39;Admin/recommendNew.aspx?page_id=8929&#39;)"><span>Recommend Page</span></a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div><script type="text/javascript" src="./Reference - Abingdon_files/comment.js"></script><div id="commentinsert" style="display: none">
+                  <form action="http://abingdon.fireflycloud.net/comment.aspx" method="post"><input type="hidden" name="page_id" value="8929"><p><textarea name="body" rows="10" tabindex="4"></textarea></p>
+                    <p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment"></p>
+                  </form>
+                </div>
+              </div>
+            </div></section></main><aside id="page-meta"><div class="ff-page-meta">
+            <ul>
+              <li class="ff-page-meta-last-updated-on">
+            Last updated 26/11/2015</li>
+              <li class="ff-page-meta-check-visits-by-person"><a href="javascript:ShowDialog(&#39;Admin/hitsbyuser.aspx?id=8929&#39;)">Check visits by person</a></li>
+              <li class="ff-page-meta-page-information"><a href="javascript:ShowDialog(&#39;Admin/pageinfo.aspx?id=8929&#39;)">More page information</a></li>
+            </ul>
+          </div></aside></section></div>
+    <div id="btnEditPage" class="ff-jseditor ff-jseditor-btn-group ff-jseditor-edit ff-jseditor-start">
+      <div class="ff-jseditor-edit-wrapper"><button type="button" class="ff-jseditor-btn ff-jseditor-btn-default ff-jseditor-btn-edit" data-command="cmdEdit" title="Edit"><span class="ff-jseditor-btn-label">Edit Page</span></button><button type="button" class="ff-jseditor-btn ff-jseditor-dropdown-toggle ff-jseditor-btn-edit-options" data-toggle="dropdown" title="Page Options"><span class="ff-jseditor-icon ff-jseditor-icon-caret-up-open"></span></button><ul class="ff-jseditor-dropdown-menu" role="menu">
+          <li><button type="button" data-command="cmdControlPanel" class="ff-jseditor-btn ff-jseditor-btn-dropdown"><span class="ff-jseditor-icon ff-jseditor-icon-cog"></span><span class="ff-jseditor-icon-label">Control Panel</span></button></li>
+          <li><button type="button" data-command="cmdHealthCheck" class="ff-jseditor-btn ff-jseditor-btn-dropdown"><span class="ff-jseditor-icon ff-jseditor-icon-zap"></span><span class="ff-jseditor-icon-label">Health Check</span></button></li>
+          <li><button type="button" data-command="cmdShowDeletedPages" class="ff-jseditor-btn ff-jseditor-btn-dropdown"><span class="ff-jseditor-icon ff-jseditor-icon-undo"></span><span class="ff-jseditor-icon-label">Show Deleted Pages</span></button></li>
+          <li><button type="button" data-command="cmdImportExport" class="ff-jseditor-btn ff-jseditor-btn-dropdown"><span class="ff-jseditor-icon ff-jseditor-icon-download-from"></span><span class="ff-jseditor-icon-label">Import/Export</span></button></li>
+          <li><button type="button" data-command="cmdManageFiles" class="ff-jseditor-btn ff-jseditor-btn-dropdown"><span class="ff-jseditor-icon ff-jseditor-icon-folder"></span><span class="ff-jseditor-icon-label">Manage Files</span></button></li>
+        </ul>
+      </div>
+    </div><script>
+        $(function() {
+          $(document).on('click', '.ff-jseditor-edit .ff-jseditor-btn-dropdown, [data-command].ff-jseditor-btn-edit', function() {
+            ff.Commands.doCommand($(this).attr('data-command'));
+          });
+          
+        });
+        
+            $(function() {
+                function createPage() {
+                    var newsCatId = $(this).attr('data-newscatid');
+                    ff.Views.load(function() { new ff.Page().createPage(newsCatId); })
+                    return false;
+                }
+
+                // Bind on the document so dynamically-added buttons work
+                $(document).on("click", '[data-command=cmdCreatePage]', createPage);
+                // Also bind directly on the element in case event bubbling is cancelled by an ancestor
+                $('[data-command=cmdCreatePage]').click(createPage);
+
+                // Bind the switch dashboard click
+                $(document).on("click", '[data-command=cmdSwitchDashboard]', function(){
+                    ff.Commands.doCommand($(this).attr('data-command'));
+                });
+            });
+        </script><div class="ff-jseditor-help"><button type="button" class="ff-help-button" data-command="" title="Help"><span class="ff-jseditor-icon ff-jseditor-icon-help"></span><span class="ff-help-button-label">Help</span></button></div>
+    <div class="ff-help-popup" id="ff-help-popup">
+      <div class="ff-help-popup-header"><span>Firefly Help</span><button class="ff-help-popup-close"><span>Close</span></button></div>
+      <ul>
+        <li class="ff-help-popup-element ff-help-online-manual"><a target="_blank" href="http://help.fireflylearning.com/?utm_source=helpcentre&amp;utm_medium=fireflyproduct&amp;utm_campaign=producttracking"><div class="ff-help-popup-element-icon"></div>
+            <div class="ff-help-popup-element-description">
+              <div class="ff-help-popup-element-description-title">Help Centre</div>
+              <p>Whether you're a teacher, student, parent or leading the Firefly project in your school, browse our documentation and videos to see how to get started and find answers to any questions you have.</p>
+            </div></a></li>
+        <li class="ff-help-popup-element ff-help-feedback"><a href="javascript:$(&#39;.ff-help-popup-close&#39;).click();SendFeedback(8929);"><div class="ff-help-popup-element-icon"></div>
+            <div class="ff-help-popup-element-description">
+              <div class="ff-help-popup-element-description-title">Contact our Support Team</div>
+              <p>Have an idea or found a bug? Contact our friendly support desk directly.</p>
+            </div></a></li>
+        <li class="ff-help-popup-element ff-help-links"><a class="ff-help-link-twitter" href="http://twitter.com/fireflyteam?utm_source=twitter&amp;utm_medium=fireflyproduct&amp;utm_campaign=producttracking" target="_blank">Follow us on Twitter</a></li>
+      </ul>
+    </div>
+  
+</body></html>

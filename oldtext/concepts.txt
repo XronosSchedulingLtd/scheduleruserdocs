@@ -1,0 +1,35 @@
+Scheduler is built around two basic concepts - events and
+resources.</p><h3>Events</h3><p>An event is an instance of something happening.
+&nbsp;It has a time when it happens, and possibly a duration. &nbsp;However,
+events are for the most part not very interesting unless they involve people or
+things. The main thing that Scheduler does is to keep track of which resources
+are involved in each event, and then let events be selected, based on the
+resources which they involve.</p><h3>Resources</h3><p>Scheduler understands 6
+different kinds of resources which can be used by
+events.</p><ul><li>Staff</li><li>Pupils</li><li>Groups</li><li>Locations</li><li>Services</li><li>Properties</li></ul><p>Staff,
+Pupils and Locations are fairly self-explanatory. &nbsp;Services are things
+like Catering, Parking, Porters or Cleaning. Properties are used to categorize
+events - the largest category is Calendar, for events in our public calendar,
+but others include Sport Calendar, Music Calendar, Drama Calendar and
+others.</p><p class="leading">Groups</p><p>Groups are the odd man out in the
+list of resources. &nbsp;They don't represent anything on their own, but
+instead allow you to group together any of the other resources. &nbsp;They can
+do obvious jobs like representing teaching groups or tutor groups, but they
+impose no restrictions on what resources can be put into each group.
+&nbsp;Rather than just being groups of pupils, you can potentially create a
+group containing 6 pupils, 3 members of staff, 2 rooms, plus the Music
+Calendar. &nbsp;You can also nest groups within groups, and even subtract one
+group from another.</p><h3>Structured information</h3><p>Most of what Scheduler
+does could be done with Google Calendar, except that Google Calendar doesn't
+understand structured information. &nbsp;You'd need to create thousands of
+separate calendars to cover all the resources within the school, then spend
+thousands of man hours copying all the events between the
+calendars.</p><p>Instead Scheduler uses just a single place to store all its
+event information. &nbsp;As of this writing (17th Nov, 2015) it contains
+234,248 events, 7486 resources, 660,354 instances of resources being directly
+linked to events and 112,118 membership records connecting resources to groups
+- which in turn are connected to events. &nbsp;The end result of this is that
+there are currently 3,924,330 connections (direct or indirect) between
+resources and events.</p><p>Viewing all those on screen at once would make for
+a cluttered display, so much has been done to allow selective
+viewing.</p></div>
