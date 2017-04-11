@@ -55,6 +55,19 @@ schedule for any member of staff, pupil or location within the school.
 Users can pick and choose what they see, check for free time, or
 identify free resources at a given time (e.g. an unused ICT room).
 
+Below is the initial view which would be seen by a fictional
+teacher (Simon Philpotts) at a fictional school on first logging in.
+You can pretend to be Simon Philpotts by using any Google account to
+log in to the
+`Scheduler demonstration site <https://schedulerdemo.xronos.uk/>`_.
+
+Note the dark blue items (events involving Simon Philpotts directly,
+mainly his timetable) the light blue items (public calendar events)
+and one red item which is an instance of cover.  Once logged in he
+can choose to see these or not, plus choose to add any other member
+of staff or pupil's timetable and much more.
+
+
 .. image:: loggedin.png
    :scale: 75%
    :align: center
