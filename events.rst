@@ -37,9 +37,13 @@ of your event.  E.g. "Planning meeting for trip to Greece".
 
    Again, a common mistake is to try to put unnecessary information
    in this box.  Don't put "Planning meeting for trip to Greece - room
-   6H", or "Meeting - Lord Copper, Jane Austen and Harriet Vane".
+   6H", or "Progress meeting - Lord Copper, Jane Ayre and Harriet Vane".
 
-   Information about the resources comes later.
+   Instead put "Planning meeting for trip to Greece", and "Progress meeting"
+   and then add the venues and/or attendees as resources in the next
+   step.  To get the full benefit of Scheduler you need to give it
+   accurate structured information.
+
 
 The next box lets you put your event into one of a number of broad
 categories.  What exactly is available in your system will depend on
