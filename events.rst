@@ -37,7 +37,7 @@ of your event.  E.g. "Planning meeting for trip to Greece".
 
    Again, a common mistake is to try to put unnecessary information
    in this box.  Don't put "Planning meeting for trip to Greece - room
-   6H", or "Progress meeting - Lord Copper, Jane Ayre and Harriet Vane".
+   6H", or "Progress meeting - Lord Copper, Jane Eyre and Harriet Vane".
 
    Instead put "Planning meeting for trip to Greece", and "Progress meeting"
    and then add the venues and/or attendees as resources in the next
