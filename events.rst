@@ -90,6 +90,8 @@ their various types and listed as being involved with the event.
    a particular service like cleaning or catering, list those too.  The
    whole idea is to share as much information as possible.
 
+.. _calendar-request:
+
 Obviously there are some kinds of resources which need a degree of
 control.  You can't have just anybody putting events into the school's
 public calendar.  Note what has happened here when Simon Philpotts
@@ -104,6 +106,9 @@ approval is needed before the event will actually appear in the
 school calendar.  The relevant people will have been notified, and
 once the event has been approved it will then appear.  For now, only
 Simon Philpotts will be able to see it in the context of the Calendar.
+
+See also
+:ref:`Specifying Requirements <specifying-requirements>` below.
 
 To finish off editing the event, click on the Update button and you
 will be taken to a dialogue showing full details of the event.
@@ -152,3 +157,85 @@ display, but then the indicated resource will be added to the event as
 soon as it is created.
 
 
+.. _specifying-requirements:
+
+-----------------------
+Specifying requirements
+-----------------------
+
+The request 
+:ref:`above <calendar-request>`
+to place an event in the school's Calendar is a simple
+yes/no request.  The person responsible for deciding the contents of
+the public school calendar will decide whether or not this is
+a suitable event to go in it.  Other requests though may need some
+ancillary information, and Scheduler provides facilities to gather
+this information too.
+
+Perhaps, for instance, an event requires the services of the catering
+department.  Adding "Catering" as a resource to the event produces
+an amber entry as before:
+
+.. image:: cateringrequest1.png
+   :scale: 75%
+   :align: center
+
+But in this instance, the catering department have configured Scheduler
+to gather more information from the requester.  When the user finishes
+editing the event (clicks on "Update), the following screen is displayed.
+
+.. image:: cateringrequest2.png
+   :scale: 75%
+   :align: center
+
+A note has been added automatically to the event, prompting the user
+to provide more details.
+
+Clicking the link to edit the note produces a more detailed prompt
+explaining what information is needed.  The requester can fill in
+whatever is required, and then the catering department will receive
+all this subsidiary information along with the basic request.
+
+.. image:: cateringrequest3.png
+   :scale: 75%
+   :align: center
+
+The user can then enter a detailed description of what is required,
+and this will be forwarded to the catering department along with
+the request.
+
+.. image:: cateringrequest4.png
+   :scale: 75%
+   :align: center
+
+As before, the requester will get a response from the catering department
+indicating whether the request is feasible.  If it can't be done, the
+requester can potentially adjust the request, and it will be sent back
+to the catering department again automatically.
+
+Note that the requester's description of what is needed is assumed to
+be part of the confirmed request.  If after the request has been agreed
+the requester subsequently changes the requirements, the status will
+automatically revert to being amber, and fresh approval will be needed
+from the catering department.
+
+It's possible that the extra information needed is too sensitive to
+be stored in a relatively public system like Scheduler, or too complicated
+or it's just necessary to display a message when a resource is requested,
+without requesting any input.
+
+As an example, here's what happens when the resource "Medical" is requested
+for an event in the demonstration system.
+
+.. image:: medicalrequest1.png
+   :scale: 75%
+   :align: center
+
+A note has been added automatically to the event for the requester to
+see, but there's no way to edit it.  It exists purely to prompt the
+requester to take some particular action.  Typically the request will
+not be confirmed until the action has been done.
+
+All of these prompts and fields can be customised by the users responsible
+for each individual resource, so it's quite feasible to tweak the prompts
+as experience is gained in the use of the system.
