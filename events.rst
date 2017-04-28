@@ -239,3 +239,8 @@ not be confirmed until the action has been done.
 All of these prompts and fields can be customised by the users responsible
 for each individual resource, so it's quite feasible to tweak the prompts
 as experience is gained in the use of the system.
+
+You can try all this out for yourself by logging in to the
+`Scheduler demonstration site <https://schedulerdemo.xronos.uk/>`_
+and creating your own events.  Don't worry about making a mess - the
+whole database is reset each night.
