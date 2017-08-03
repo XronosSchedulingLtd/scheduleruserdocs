@@ -1,6 +1,8 @@
 Introduction
 ============
 
+or, "What is happening - where, when and with whom?"
+
 ---------
 Overview
 ---------
