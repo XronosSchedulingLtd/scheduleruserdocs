@@ -38,6 +38,14 @@ Where pupils are scheduled to be missing from a lesson (for a trip,
 or some other activity) the fact is flagged automatically to the teacher
 and a list of the affected pupils is provided.
 
+Having assembled the information, it can then be viewed directly
+in Scheduler, or it can be fed to another calendaring program of
+your choice.  Every member of staff and every pupil can have a feed
+to his or her pocket device, showing not only the user's timetable
+but also all the other events in which he or she is involved.  For staff,
+cover lessons can be fed through automatically and made to appear
+in a different colour.
+
 To the casual user, it at first looks much like any other calendaring
 program, but the major difference is that instead of holding lots of
 separate calendars it stores a single structured schedule for
