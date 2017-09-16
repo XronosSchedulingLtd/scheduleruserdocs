@@ -23,6 +23,7 @@ This documentation is a work in progress.
    tweaking
    feeds
    events
+   relocate
    reports
    invigilation
    contact
