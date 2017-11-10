@@ -11,7 +11,7 @@ people, places and services - involved in it.
    The most common source of confusion for a new user is entering
    an event without any resources and then wondering why no-one
    else can see it.  Such an event is visible only to the person
-   who put it in - and only then if "My events" is ticked.
+   who put it in - and then only if "My events" is ticked.
 
    Scheduler is interested in the *resources* which each event uses.
    An event with no resources might as well not be there.
