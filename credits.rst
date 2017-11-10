@@ -22,6 +22,9 @@ under the
 `Creative Commons Attribution <http://creativecommons.org/licenses/by/3.0/>`_
 licence.
 
+User-configurable forms are powered by Kevin Chappell's excellent
+`formBuilder <https://formbuilder.online>`_
+
 The target server runs
 `Debian GNU/Linux <https://www.debian.org/>`_
 version 8 (Jessie) although
