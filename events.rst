@@ -90,6 +90,13 @@ their various types and listed as being involved with the event.
    a particular service like cleaning or catering, list those too.  The
    whole idea is to share as much information as possible.
 
+.. warning::
+   Don't add people to the event just because you think they might
+   be interested in it.  The resources which you add to an event are
+   those which are actively involved in the event.  If you want to
+   publicize your event, think about adding it to one of your school's
+   public calendars.
+
 .. _calendar-request:
 
 Obviously there are some kinds of resources which need a degree of
