@@ -12,7 +12,8 @@ Index
 
 Xronos Scheduler - a scheduling program for schools.
 
-This documentation is a work in progress.
+Find the source on
+`GitHub <https://github.com/XronosSchedulingLtd/scheduler>`_.
 
 .. toctree::
 
