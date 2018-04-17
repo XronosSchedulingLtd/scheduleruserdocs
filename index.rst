@@ -24,6 +24,7 @@ Find the source on
    tweaking
    feeds
    events
+   repeating
    relocate
    reports
    invigilation
@@ -34,7 +35,7 @@ Find the source on
 Other documents
 ---------------
 
-- `Scheduler Installation Manual <https://xronos.uk/install/>`_
+- `Scheduler Installation Guide <https://xronos.uk/install/>`_
 
 Scheduler is licensed under the GNU General Public Licence, version 2.
 

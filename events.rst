@@ -1,3 +1,5 @@
+.. _entering_events:
+
 Entering events
 ===============
 
