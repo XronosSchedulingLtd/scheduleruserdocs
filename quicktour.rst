@@ -5,12 +5,12 @@ Quick tour
 
    You can work through this tour for yourself by accessing the
    `Scheduler demonstration site <https://schedulerdemo.xronos.uk/>`_.
-   Log in with any Google account and you will be treated as a fictional
-   teacher - Simon Philpotts.
 
-   Although your Google user name will be stored for the purposes of
-   logging you in, the whole database is reset every night and it will
-   then be deleted.  It will not be used for any other purpose.
+   This system runs in a demonstration mode, which means you can skip
+   the usual login procedure.  There's a pull-down menu at top right
+   which lets you log in as two different fictional teachers - Simon
+   Philpotts (SJP) or Claire Dunwoody (CED) - or as a fictional
+   pupil.
 
    The demonstration contains just one week's worth of data (always
    the current week) for a fictional school.  It's far from being
