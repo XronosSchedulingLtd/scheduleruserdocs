@@ -44,11 +44,23 @@ Logged in
 =========
 
 If you log in, you can do much more. Click on the "Sign in" button at
-the top right of the screen, and sign in using any Gmail account.  (In
-a real installation, the account would have to be one allocated by the
-relevant school, but for this demonstration system any one will do.)
+the top right of the screen, and choose one of the options from the menu
+which appears:
 
-You should then see a screen much more like this:
+- SJP logs you in as a maths teacher called Simon Philpotts
+- CED logs you in as a French teacher called Claire Dunwoody
+- Pupil logs you in as a pupil
+
+Pupils have fewer permissions to do things in the system, but can still
+use it to view their own individual schedules.
+
+.. note::
+
+    In a real system, you would need to authenticate using some
+    actual credentials, but for this demonstration system you can
+    just choose who you want to be.
+
+If you log in as SJP, you should then see a screen much more like this:
 
 .. image:: loggedin.png
    :scale: 75%
