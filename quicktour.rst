@@ -66,10 +66,11 @@ If you log in as SJP, you should then see a screen much more like this:
    :scale: 75%
    :align: center
 
-The demonstration system treats you as being a fictional maths teacher -
-Simon Philpotts.  You will find you have full edit privileges to create
+
+Having logged in, you will find you have full edit privileges to create
 events within the system, although for obvious reasons you can't edit your
-own timetable, or events created by other people.
+own timetable (which comes from the school's MIS), or events created by
+other people.
 
 Note the left hand column, where you can select the resources for which
 you want to view events.  By default, when you first log in you are shown
