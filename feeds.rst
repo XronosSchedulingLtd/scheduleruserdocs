@@ -3,7 +3,7 @@ Calendar feeds
 
 All the information held within Scheduler can be viewed directly
 within the program, but it can also be convenient for users to
-see the information relevant them in their external calendards, or
+see the information relevant them in their external calendars, or
 on their mobile devices.
 
 Scheduler provides highly configurable calendar feeds, which are
