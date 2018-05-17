@@ -38,6 +38,7 @@ Download this guide as a
 Other documents
 ---------------
 
+- `Scheduler Advanced User Guide <https://xronos.uk/advanced/>`_
 - `Scheduler Installation Guide <https://xronos.uk/install/>`_
 
 Scheduler is licensed under the GNU General Public Licence, version 2.
