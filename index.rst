@@ -15,6 +15,9 @@ Xronos Scheduler - a scheduling program for schools.
 Find the source on
 `GitHub <https://github.com/XronosSchedulingLtd/scheduler>`_.
 
+Download this guide as a
+`PDF <https://xronos.uk/pdfs/SchedulerUserGuide.pdf>`_
+
 .. toctree::
 
    overview
@@ -31,7 +34,6 @@ Find the source on
    contact
    credits
 
-`Download as PDF <https://xronos.uk/pdfs/SchedulerUserGuide.pdf>`_
 
 Other documents
 ---------------
