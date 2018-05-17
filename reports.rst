@@ -113,38 +113,6 @@ a DOC file (suitable for a word processor).
   
 You can then tweak the report using the following available switches:
 
-.. csv-table:: Report switches
-   :header: "Switch", "Meaning"
-   :widths: 10, 40
-
-   compact, "Hello there - I'm a meaning"
-   duration, "This one too has a meaning, of sorts."
-
-
-+-------------------+-------------------------------------+
-| Switch            | Meaning                             |
-+===================+=====================================+
-| compact           | Hello there - I'm a meaning         |
-+-------------------+-------------------------------------+
-| duration          | And here's another.                 |
-+-------------------+-------------------------------------+
-
-
-
-
-========  =======================================
-Switch     Meaning
-========  =======================================
-compact   What happens if my words go on too far?
-
-          Can I have more than one line of text
-
-          associated with the same bit on the left?
-duration  And this one does too.
-========  =======================================
-
-
-
 .. list-table:: Report switches
    :widths: 60 220
    :header-rows: 1
@@ -152,153 +120,67 @@ duration  And this one does too.
    * - Switch
      - Meaning
    * - compact
-     - words of explanation
+     - This switch reduces an event which spans multiple days to a single
+       entry on its first day. Thus, for instance, a sports trip lasting
+       from 5th Dec to 10th Dec would by default be listed on all 6 of these
+       days. If this option is specified then it will appear only on the 5th.
    * - duration
-     - words of explanation.  In fact, quite a lot of explanation.
-       More than enough to fill the full width of the box and then
-       wrap onto a following line.  Will it mess up and squeeze the
-       left hand column?
-
-       A fresh paragraph.
+     - For use with the "compact" option above. This causes the end date to
+       be included in the single starting entry. Thus for the same sports
+       trip, the entry on the 5th would now read "Sports trip (to 10th Dec)".
    * - mark_end
-     - words of explanation
+     - Again for use in conjunction with the "compact" option. This switch
+       will cause the end day to get an entry as well. If it is added, the
+       trip would also appear on the 10th Dec as "Sports trip - ends"
    * - locations
-     - words of explanation
+     - If specified, the (short) names of any relevant locations will be
+       included with each event.
    * - staff
-     - words of explanation
+     - If specified, the initials of any staff involved will be listed
+       with the event.
    * - pupils
-     - words of explanation
+     - If specified, the names of any pupils involved in the events will
+       be listed.
    * - periods
-     - words of explanation
+     - If specified, the report will try to identify events which exactly
+       line up with period times, and will then identify the event by period
+       number, rather than by start and finish time. Only really useful for
+       reports on stuff which fits the timetable.
    * - start_date=
-     - words of explanation
+     - List events starting on the given date rather than starting from today.
    * - end_date=
-     - words of explanation
+     - List events up to the indicated end date, rather than going on forever.
    * - twelve_hour
-     - words of explanation
+     - Show event times using the twelve hour clock (am/pm) instead of the
+       default 24 hour clock.
    * - no_end_time
-     - words of explanation
+     - Don't show the end time for events - just the start time.
    * - breaks
-     - words of explanation
+     - Put each event on a line of its own, rather than in a solid block.
    * - suppress_empties
-     - words of explanation
+     - If any date has no events at all, don't produce an entry for that date.
+       Useful if the events being reported on are spread sparsely through the
+       calendar.
    * - tentative
-     - words of explanation
+     - By default, the report will contain only events to which the resource
+       is firmly committed. If someone has for instance, requested a calendar
+       entry but it hasn't been approved yet, then the event will not be listed
+       for the calendar. By adding the tentative flag, you can list tentative
+       events instead.
    * - firm
-     - words of explanation
+     - And by also adding the firm flag, you can get both tentative and firm
+       commitments.
    * - categories=
-     - words of explanation
+     - Provide a comma-separated list of categories to which to restrict the
+       selection.
 
 
+.. note::
 
-* compact
-* duration
-* mark_end
-* locations
-* staff
-* pupils
-* periods
-* start_date=
-* end_date=
-* twelve_hour
-* no_end_time
-* breaks
-* suppress_empties
-* tentative
-* firm
-* categories=
+   If you've used the ".csv" or ".doc" extensions, then the switches
+   go *after* the extension, like this:
 
-Note that if you've used the ".csv" or ".doc" extensions, then the switches
-go *after* the extension, like this:
-
-  https://schedulerdemo.xronos.uk/item/1/days.csv?compact
+      https://schedulerdemo.xronos.uk/item/1/days.csv?compact
   
-Details of the switches are as follows:
 
-compact
 
-This switch reduces an event which spans multiple days to a single entry
-on its first day. Thus, for instance, a sports trip lasting from 5th Dec
-to 10th Dec would by default be listed on all 6 of these days. If this
-option is specified then it will appear only on the 5th.
-
-duration
-
-For use with the "compact" option above. This causes the end date to be
-included in the single starting entry. Thus for the same sports trip,
-the entry on the 5th would now read "Sports trip (to 10th Dec)".
-
-mark_end
-
-Again for use in conjunction with the "compact" option. This switch will
-cause the end day to get an entry as well. If it is added, the trip would
-also appear on the 10th Dec as "Sports trip - ends"
-
-locations
-
-If specified, the (short) names of any relevant locations will be
-included with each event.
-
-staff
-
-If specified, the initials of any staff involved will be listed with
-the event.
-
-pupils
-
-If specified, the names of any pupils involved in the events will
-be listed.
-
-periods
-
-If specified, the report will try to identify events which exactly
-line up with period times, and will then identify the event by period
-number, rather than by start and finish time. Only really useful for
-reports on stuff which fits the timetable.
-
-start_date=
-
-List events starting on the given date rather than starting from today.
-
-end_date=
-
-List events up to the indicated end date, rather than going on forever.
-
-twelve_hour
-
-Show event times using the twelve hour clock (am/pm) instead of the
-default 24 hour clock.
-
-no_end_time
-
-Don't show the end time for events - just the start time.
-
-breaks
-
-Put each event on a line of its own, rather than in a solid block.
-
-suppress_empties
-
-If any date has no events at all, don't produce an entry for that date.
-Useful if the events being reported on are spread sparsely through the
-calendar.
-
-tentative / firm
-
-By default, the report will contain only events to which the resource
-is firmly committed. If someone has for instance, requested a calendar
-entry but it hasn't been approved yet, then the event will not be listed
-for the calendar. By adding the tentative flag, you can list tentative
-events instead, and by also adding the firm flag, you can get both
-tentative and firm commitments.
-
-categories=
-
-Provide a comma-separated list of categories to which to restrict the
-selection.
-
-So a URL like this: https://schedulerdemo.xronos.uk/item/1/days?twelve_hour&compact&duration&breaks&no_end_time
-
-would produce output like this:
-
-Look familiar?
