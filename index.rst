@@ -27,6 +27,7 @@ Download this guide as a
    tweaking
    feeds
    events
+   eventcategories
    repeating
    relocate
    reports
