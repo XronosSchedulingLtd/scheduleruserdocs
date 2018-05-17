@@ -31,6 +31,7 @@ Find the source on
    contact
    credits
 
+`Download as PDF <https://xronos.uk/pdfs/SchedulerUserGuide.pdf>`_
 
 Other documents
 ---------------
