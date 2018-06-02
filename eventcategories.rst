@@ -103,6 +103,17 @@ generally create events in privileged categories.
        (unless filtered out) and affect the creation of repeating events.
 
 
+--------
+Choosing
+--------
+
+When entering an event, it's quite important to choose an appropriate
+event category.  The more accurate the information which is entered
+into Scheduler, the more use it then is to everyone else.
+
+In particular, be aware of the difference between "Busy" and "Non-busy"
+categories.  A "Busy" category means that all the resources specified
+for the event are tied up in that event.
 
 Non-busy categories are particularly useful when you want to draw
 the attention of staff to some sort of event, without them actually being
@@ -118,6 +129,13 @@ be flagged because presumably they would have lessons then too.
 Instead, enter an event in the "Date - other" category, with all of
 the English teachers attached.  It's a signficant date for them, but
 no more.
+
+More non-busy categories can be created by your system administrator.
+An obvious potential one is "Prep" or "Homework".  This can be used to
+enter all-day events for particular pupils showing what prep or homework
+they should have/be doing on that day.  The existence of such an event
+does not mean that the pupil will be busy (and thus absent from lessons)
+on that day - it's merely documenting something which happens on the day.
 
 ---------
 Filtering
