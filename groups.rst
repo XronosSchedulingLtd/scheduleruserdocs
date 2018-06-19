@@ -116,7 +116,7 @@ will be:
 * Ad hoc groups
 
 The naming of these last ones varies from MIS to MIS, but they're groups
-created as needed by indivual teachers - for example, the list of pupils
+created as needed by individual teachers - for example, the list of pupils
 going on a trip.  These can be particularly useful, because you can
 create the list in your MIS - probably needed in order to fill out
 the necessary H&S forms for the trip - and then it will migrate over
