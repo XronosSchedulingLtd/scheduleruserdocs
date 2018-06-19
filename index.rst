@@ -28,6 +28,7 @@ Download this guide as a
    feeds
    events
    eventcategories
+   groups
    repeating
    relocate
    reports
