@@ -224,7 +224,7 @@ membership will be.
   you'll see a different set of names.
 
 Now I want to exclude the pupils who study French, so I type "Year 10
-French pupils in the right hand box (for exclusions):
+French pupils" in the right hand box (for exclusions):
 
 .. image:: groupstypingfrench.png
    :scale: 75%
