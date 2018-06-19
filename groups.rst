@@ -87,10 +87,8 @@ and all their information can still be retrieved.
 On the other hand, a group like "Geography teachers" has continuity
 from year to year.  There will be changes from year to year, and
 even during the course of a year, but the meaning of the group stays
-the same and much of the membership will flow on from year to year.
-(They're like rats - you can
-never eradicate them entirely.)  This group therefore naturally fits
-in the perpetual era.
+the same and much of the membership will flow on from year to year. [1]_
+This group therefore naturally fits in the perpetual era.
 
 .. note::
 
@@ -264,3 +262,8 @@ all the nesting).  The latter can be quite useful if you want to freeze
 the membership of your group.  You might create it using as building
 blocks groups provided by other people, but having got the list you want
 you might not want it to change when the other groups change.
+
+.. [1]
+  They're like rats - no matter what you do you can
+  never eradicate them entirely.
+
