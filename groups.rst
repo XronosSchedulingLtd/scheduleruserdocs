@@ -250,10 +250,10 @@ exclusion) and the resulting list of pupils has got shorter.
   and you'll end up with a group consisting of everyone in the upper
   sixth who isn't a prefect, plus William Wilberforce.
 
-*And* it will do all this over whatever chronology you choose, **And**
-it will do it in real time as your events are displayed.  Pretty
-good for something written entirely in an interpreted programming
-language - Ruby.
+  *And* it will do all this over whatever chronology you choose, **And**
+  it will do it in real time as your events are displayed.  Pretty
+  good for something written entirely in an interpreted programming
+  language - Ruby.
 
 
 Finally, the two buttons at the bottom of the edit dialogue allow
