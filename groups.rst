@@ -87,7 +87,9 @@ and all their information can still be retrieved.
 On the other hand, a group like "Geography teachers" has continuity
 from year to year.  There will be changes from year to year, and
 even during the course of a year, but the meaning of the group stays
-the same and much of the membership will flow on from year to year. [1]_
+the same and much of the membership will flow on from year to year.
+There will always be Geography teachers [1]_, but the exact membership
+of the group will change.
 This group therefore naturally fits in the perpetual era.
 
 .. note::
