@@ -257,7 +257,7 @@ language - Ruby.
 
 
 Finally, the two buttons at the bottom of the edit dialogue allow
-you clone a group (create a new identical group with a different
+you to clone a group (create a new identical group with a different
 name, complete with all the nested structure) or flatten a group
 (create a new group with the same eventual membership, but losing
 all the nesting).  The latter can be quite useful if you want to freeze
