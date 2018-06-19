@@ -6,7 +6,7 @@ Basics
 ======
 
 One of the most powerful features of Scheduler is its support for
-grouping things together.  Any over the other entities which
+grouping things together.  Any of the other entities which
 it handles can be placed in a group and then these groups can
 be attached to events.
 
