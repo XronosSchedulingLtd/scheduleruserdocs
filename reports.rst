@@ -92,7 +92,7 @@ automate the construction.
 
 The base URL for generating a report is:
 
-<p class="ff-style-code">https://schedulerdemo.xronos.uk/item/&lt;number&gt;/days</p>
+  https://schedulerdemo.xronos.uk/item/1/days
 
 To find out the relevant number for the item which you want, simply hover
 over one of the coloured boxes on the left hand side of the screen.
