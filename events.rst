@@ -74,11 +74,17 @@ Once you click on the Create button, the dialogue changes slightly -
 a new field appears at the bottom.  The event now exists, and resources
 can be assigned to it.
 
+Simon Philpotts has been added to the event automatically.
+This is a user-selectable setting which to start with is switched on -
+every time you create a new event you are auto-added as one of its
+resources.  To switch if off, click on your name in the coloured
+block in the left hand column, and then un-tick the "Auto add" box.
+
 .. image:: enterevent3.png
    :scale: 75%
    :align: center
 
-Note that there is only a single field for adding resources.  You
+There is only a single field for adding resources.  You
 can type there the name of any resource - staff member, pupil, room,
 location, service, property or group - and the system will assist
 you by auto-completing it.  As you add resources, they are sorted into
@@ -110,17 +116,32 @@ attempted to add "Calendar" as a property to his event.
    :scale: 75%
    :align: center
 
-It has appeared, but it's highlighted in orange.  This indicates that
+It has appeared, it has an orange question mark in front of it.
+This indicates that
 approval is needed before the event will actually appear in the
 school calendar.  The relevant people will have been notified, and
 once the event has been approved it will then appear.  For now, only
-Simon Philpotts will be able to see it in the context of the Calendar.
+some users will be able to see it in the context of the Calendar.
+
+.. note::
+   Who exactly can see un-approved events like this is under the control
+   of the system administrator.  Typically it might be staff, but
+   not pupils or the general public.  For those who can see the event,
+   it will appear greyed out to indicate that it is still tentative.
+
 
 See also
 :ref:`Specifying Requirements <specifying-requirements>` below.
 
 To finish off editing the event, click on the Update button and you
 will be taken to a dialogue showing full details of the event.
+
+.. image:: enterevent4a.png
+   :scale: 75%
+   :align: center
+
+And then if you click the "Done" button the dialogue closes and you're
+back to the main calendar display.
 
 .. image:: enterevent5.png
    :scale: 75%
@@ -197,36 +218,85 @@ editing the event (clicks on "Update), the following screen is displayed.
    :scale: 75%
    :align: center
 
-A note has been added automatically to the event, prompting the user
-to provide more details.
+There is a form which the user needs to fill in to specify the exact
+catering requirements.  You can either go to the form immediately
+from here using the "Do form" button, or you can do it later on
+from the menu in the main screen.
 
-Clicking the link to edit the note produces a more detailed prompt
-explaining what information is needed.  The requester can fill in
-whatever is required, and then the catering department will receive
-all this subsidiary information along with the basic request.
+Note also that a "(1)" has appeared next to the main menu button in
+the top bar - this is to tell Simon Philpotts that there is one item
+(the form) awaiting his attention.  Whenever you see this in the menu
+you can find the item by following the numbers down through the pop-down 
+menu.
+
+.. image:: cateringrequest2a.png
+   :scale: 75%
+   :align: center
+
+Here we can see that the item is under Menu => Events => Mine, and
+clicking on that menu item brings up the following screen.
 
 .. image:: cateringrequest3.png
    :scale: 75%
    :align: center
 
-The user can then enter a detailed description of what is required,
-and this will be forwarded to the catering department along with
-the request.
+There are two events listed - the two which we've just entered.
+However, the number displayed was only 1 - this is because only
+one of these events is awaiting input from Simon Philpotts.
+
+Note the little arrow in the "Action" column.  This will appear against
+any event which requires action from the user.  The forms column says
+there is a form to fill in, and clicking on the "To fill in" link
+will bring up the relevant form.
 
 .. image:: cateringrequest4.png
    :scale: 75%
    :align: center
 
-As before, the requester will get a response from the catering department
-indicating whether the request is feasible.  If it can't be done, the
-requester can potentially adjust the request, and it will be sent back
-to the catering department again automatically.
+The exact design of each form is under the control of your system
+administrator and/or the controller of the resource - in this case
+the catering department.  There are a wide range of possible field
+types and this example shows just a few.
 
-Note that the requester's description of what is needed is assumed to
-be part of the confirmed request.  If after the request has been agreed
-the requester subsequently changes the requirements, the status will
-automatically revert to being amber, and fresh approval will be needed
-from the catering department.
+Note that two fields have asterisks against them, indicating that they
+are compulsory fields.  One is a pop down list to choose from, and one
+gives a yes/no choice.
+
+Once you have filled in the form and saved it, you are returned to
+the event listing screen.
+
+.. image:: cateringrequest5.png
+   :scale: 75%
+   :align: center
+
+The form is now shown as being complete, and your count of outstanding
+actions has gone down to (0).  The form and event have now been passed
+to the catering department for approval, and the requester will be
+notified when they have dealt with it.
+
+There are three possible responses which you might get to a request
+like this:
+
+* Approved
+* Rejected
+* Noted / held
+
+The first one is self-explanatory.  The second one should come back
+with a reason, (e.g. "Sorry - we're already fully-booked for that night.")
+whilst the third one is generally an indication that more information
+is needed.  For instance, you might have entered "80 to 120" as the number
+of people for whom you need catering.  The catering department thus
+knows about your request - a good thing - but they need you to firm up
+the numbers in advance of the actual event.  They thus pass it back to
+you with a "Noted" status, and it's up to you to fill the rest in
+when you can.
+
+Once a request has been approved, you can no longer change the contents
+of the corresponding form.
+
+---------------
+More than forms
+---------------
 
 It's possible that the extra information needed is too sensitive to
 be stored in a relatively public system like Scheduler, or too complicated
