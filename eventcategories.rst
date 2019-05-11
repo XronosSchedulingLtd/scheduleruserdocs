@@ -24,86 +24,65 @@ person or room is busy.
 Privileged categories have special meanings, and normal users cannot
 generally create events in privileged categories.
 
-.. list-table:: Busy categories
-   :widths: 60 220
-   :header-rows: 1
+Busy categories
+---------------
 
-   * - Category
-     - Explanation
-   * - Event set-up
-     - For time before or after an event when the venue(s) are being
-       prepared or cleared up.
-   * - Hospitality
-     - For events where guests are offered food and/or drink.
-   * - INSET / Training
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Interview / Audition
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Lesson
-     - Probably the most populous category of event, although not usually
-       entered manually.  The lessons within your system will typically
-       be imported automatically from your school's MIS.
-   * - Meeting
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Performance
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Practice / Rehearsal
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Religious service
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Sports fixture
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Trip
-     - Self-explanatory.  Has no special significance other than the name.
+:Event set-up: For time before or after an event when the venue(s) are being
+               prepared or cleared up.
+:Hospitality: For events where guests are offered food and/or drink.
+:INSET / Training: Self-explanatory.  Has no special significance other
+                   than the name.
+:Interview / Audition: Self-explanatory.  Has no special significance
+                       other than the name.
+:Lesson: Probably the most populous category of event, although not usually
+         entered manually.  The lessons within your system will typically
+         be imported automatically from your school's MIS.
+:Meeting: Self-explanatory.  Has no special significance other than the name.
+:Performance: Self-explanatory.  Has no special significance other than the
+              name.
+:Practice / Rehearsal: Self-explanatory.  Has no special significance other
+                       than the name.
+:Religious service: Self-explanatory.  Has no special significance other
+                    than the name.
+:Sports fixture: Self-explanatory.  Has no special significance other than
+                 the name.
+:Trip: Self-explanatory.  Has no special significance other than the name.
 
-.. list-table:: Non-busy categories
-   :widths: 60 220
-   :header-rows: 1
+Non-busy categories
+-------------------
 
-   * - Category
-     - Explanation
-   * - Date - other
-     - A date which may be of interest to the attached people, but doesn't
-       render them busy.  For instance, "Head of Department away" might
-       be a useful event to enter, with all the members of the department
-       added as resources.
+:Date - other: A date which may be of interest to the attached people,
+               but doesn't render them busy.  For instance, "Head of
+               Department away" might be a useful event to enter, with
+               all the members of the department added as resources.
 
 
-.. list-table:: Privileged event categories
-   :widths: 60 220
-   :header-rows: 1
+Privileged event categories
+---------------------------
 
-   * - Category
-     - Explanation
-   * - Assembly
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Date - crucial
-     - A key date in the life of the school.  Typically used for things
-       like the start and end of term.  Will show through on all 
-       schedules.
-   * - Duty
-     - Used to record duty slots for individual members of staff.
-   * - Hidden
-     - Does not show up on any schedule.  Used for events which have
-       an effect on the background processing within Scheduler - e.g.
-       lesson suspensions.
-   * - Invigilation
-     - Used to record exam invigilation slots.  Events in this category
-       are generated automatically by the exam invigilation tools
-       within Scheduler.
-   * - Parents' evening
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Reporting deadline
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Tutor period
-     - Self-explanatory.  Has no special significance other than the name.
-   * - Week letter
-     - For schools which have a two week timetable, events in this
-       category show which week is which.  They show through on schedules
-       (unless filtered out) and affect the creation of repeating events.
+:Assembly: Self-explanatory.  Has no special significance other than the name.
+:Date - crucial: A key date in the life of the school.  Typically used
+                 for things like the start and end of term.  Will show
+                 through on all schedules.
+:Duty: Used to record duty slots for individual members of staff.
+:Hidden: Does not show up on any schedule.  Used for events which have
+         an effect on the background processing within Scheduler - e.g.
+         lesson suspensions.
+:Invigilation: Used to record exam invigilation slots.  Events in this
+               category are generated automatically by the exam
+               invigilation tools within Scheduler.
+:Parents' evening: Self-explanatory.  Has no special significance other
+                   than the name.
+:Reporting deadline: Self-explanatory.  Has no special significance other
+                     than the name.
+:Tutor period: Self-explanatory.  Has no special significance other than
+               the name.
+:Week letter: For schools which have a two week timetable, events in
+              this category show which week is which.  They show through
+              on schedules (unless filtered out) and affect the creation
+              of repeating events.
 
 
---------
 Choosing
 --------
 
@@ -137,7 +116,6 @@ they should have/be doing on that day.  The existence of such an event
 does not mean that the pupil will be busy (and thus absent from lessons)
 on that day - it's merely documenting something which happens on the day.
 
----------
 Filtering
 ---------
 

@@ -27,7 +27,7 @@ User-configurable forms are powered by Kevin Chappell's excellent
 
 The target server runs
 `Debian GNU/Linux <https://www.debian.org/>`_
-version 8 (Jessie) although
+version 9 (Stretch) although
 it should be possible to run the software on any Linux variant, MacOS X,
 or even Windows.
 
