@@ -44,6 +44,7 @@ Available documents
 - `Scheduler API Guide <https://xronos.uk/api/>`_
 - `Scheduler Installation Guide <https://xronos.uk/install/>`_
 - `Scheduler User Guide <https://xronos.uk/>`_
+
 Scheduler is licensed under the GNU General Public Licence, version 2.
 
 Note - Scheduler is *not* a timetabling program.  It has no facilities
