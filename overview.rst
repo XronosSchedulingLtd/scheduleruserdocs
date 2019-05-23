@@ -67,9 +67,9 @@ identify free resources at a given time (e.g. an unused ICT room).
 
 Below is the initial view which would be seen by a fictional
 teacher (Simon Philpotts) at a fictional school on first logging in.
-You can pretend to be Simon Philpotts by using any Google account to
-log in to the
-`Scheduler demonstration site <https://schedulerdemo.xronos.uk/>`_.
+You can log in to the
+`Scheduler demonstration site <https://schedulerdemo.xronos.uk/>`_
+as Simon Philpotts by using the "Sign in" menu at the top right.
 
 Note the dark blue items (events involving Simon Philpotts directly,
 mainly his timetable) the light blue items (public calendar events)
