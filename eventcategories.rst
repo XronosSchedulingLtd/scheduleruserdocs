@@ -18,7 +18,7 @@ There are three broad groups of event categories:
 
 If a person or room is assigned to an event in a "Busy" category
 then it becomes possible to identify potential clashes.  On the other
-hand, and event in a "Non-busy" category does not imply that the
+hand, an event in a "Non-busy" category does not imply that the
 person or room is busy.
 
 Privileged categories have special meanings, and normal users cannot
