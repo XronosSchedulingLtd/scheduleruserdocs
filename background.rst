@@ -23,11 +23,11 @@ timetables in order to populate the events database!  Over time
 a better import mechanism was constructed and Scheduler now has
 the means to interface with Schola (an in-house developed MIS),
 SchoolBase (using direct database access), iSAMS (using a mixture
-of the iSAMS API, and direct database access where the API is lacking)
-and WCBS/Pass (using their ODBC interface).
+of the iSAMS Batch API, and direct database access where the Batch API is
+lacking) and WCBS/Pass (using their ODBC interface).
 
 The largest school using it has just over 1000 pupils and 400 staff, and
-is the prime repository for much of the school's scheduling information.
+it is the prime repository for much of the school's scheduling information.
 The timetable, cover and regular activities come automatically from the
 school's MIS (updated nightly) and then Scheduler holds the school's
 calendar, plus all the other events which aren't on the timetable.
@@ -37,3 +37,8 @@ like catering or cleaning.  For any resource, versatile forms can be
 created through a drag-and-drop interface, allowing rich detail to
 be collected on, for instance, what catering is required.
 
+Some resources can naturally be organised in pools - for example, minibuses.
+A trip might need two minibuses, but it doesn't matter to the trip
+organiser which ones they are.  The person responsible for administering
+minibuses decides which two to allocate.  Scheduler provides versatile
+facilities to facilitate this process.
