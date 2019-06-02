@@ -116,7 +116,7 @@ attempted to add "Calendar" as a property to his event.
    :scale: 75%
    :align: center
 
-It has appeared, it has an orange question mark in front of it.
+It has appeared, but it has an orange question mark in front of it.
 This indicates that
 approval is needed before the event will actually appear in the
 school calendar.  The relevant people will have been notified, and
