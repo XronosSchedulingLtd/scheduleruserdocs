@@ -14,7 +14,7 @@ public, or any chosen combination of these.
 .. note::
 
   By default, staff can add notes to events and pupils can't but
-  the system adminstrator can change these permissions as requiured.
+  the system adminstrator can change these permissions as required.
   They can be changed on a per-user basis, or by creating and editing
   User Profiles.
 
