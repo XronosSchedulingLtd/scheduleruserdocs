@@ -22,6 +22,10 @@ under the
 `Creative Commons Attribution <http://creativecommons.org/licenses/by/3.0/>`_
 licence.
 
+`One other icon <http://www.iconarchive.com/show/origami-icons-by-double-j-design/file-icon.html>`_ is kindly provided by
+`Double-J Design <http://www.doublejdesign.co.uk/>`_ under the
+`Creative Commons Attribution 4.0 <http://creativecommons.org/licenses/by/4.0/>`_ licence.
+
 User-configurable forms are powered by Kevin Chappell's excellent
 `formBuilder <https://formbuilder.online>`_
 
