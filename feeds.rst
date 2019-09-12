@@ -110,6 +110,26 @@ You can add further options to the URLs given above to tweak the end result.
 
   All dates should be given in ISO format - e.g. 2017-09-01
 
+- past_days=N
+
+  As an alternative to specifying a particular date, you can say
+  how many days into the past you want the selection of events to
+  go.  A value of 0 indicates no past days, so selection will start
+  on today's date.
+
+  If both a start_date and a number of past_days are specified, the
+  start_date takes precedence.
+
+- future_days=N
+
+  Likewise, you can specify how many days into the future you want
+  event selection to cover.  A value of 0 means stop with today's
+  date.  If you set both past_days and future_days to 0 then you
+  will get event for today's date only.
+
+  If both an end_date and a number of future_days are specified, the
+  end_date takes precedence.
+
 - cover
 
   If specified, only events assigned specifically as cover will be returned
@@ -134,7 +154,16 @@ You can add further options to the URLs given above to tweak the end result.
 
   Merges the breakthrough events into the specified resource's schedule.
 
+.. warning::
 
+  Scheduler caches the result of any calendar feed request for 1 hour.
+  Any additional request for exactly the same feed within that hour
+  will get the same data as the last time, even if something has changed.
+
+  If you use the past_days and future_days options above, this can mean
+  that you don't see quite the data which you're expecting if you
+  make a request between 00:00 and 01:00 (and you also requested the
+  same data just before midnight).
 
 
 
