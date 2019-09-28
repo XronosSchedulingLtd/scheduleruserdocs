@@ -52,7 +52,7 @@ When groups are used to display the schedule of an individual (and
 for pupils in particular, groups are absolutely essential to the
 calculation of their schedules) the schedule will be correct according
 to the individual's group membership on each particular day.  If a pupil
-is added to a football team on a Wednesday, then said the team's match
+is added to a football team on a Wednesday, then said team's match
 on the coming Saturday will appear on the pupil's schedule, but not
 the match for previous Saturday.  Likewise (but the other way around)
 for the pupil who is removed from the team on the Wednesday.
