@@ -154,6 +154,40 @@ You can add further options to the URLs given above to tweak the end result.
 
   Merges the breakthrough events into the specified resource's schedule.
 
+- spread=NN
+
+  For some feeds, it may be desired to list only some of the locations
+  used by an event.  For instance, a play may involve the school theatre,
+  plus a number of ancillary rooms, but for the public calendar only
+  the theatre itself should be mentioned.
+
+  Rooms within Scheduler can be given a weighting and if this option is
+  specified then for each event only the room with the maximum weighting,
+  plus any others within the specified spread will be included in the feed.
+
+  It is thus possible to filter out the ancillary rooms and show the play
+  as happening just in the theatre.
+
+- clip
+
+  Some calendar programs fail to handle end dates/datetimes correctly.
+  The ical specification defines these as being *exclusive* - that is,
+  the end date/datetime given is not part of the event.  Thus for
+  an all-day event running from the 1st to the 3rd, the end date is
+  the 4th.  Likewise, for an event running from 10:00 - 11:00, the end
+  time is 11:00, but 11:00 is not part of the event.  If another event
+  runs from 11:00 - 12:00, they do not overlap.
+
+  This option tells the ical generator to chop one minute off the
+  end time of timed events with non-zero duration which end at exactly
+  midnight.  Thus an event on 2020-02-01 from 17:00 to midnight
+  should have an end time of 2020-02-02 00:00:00, but instead the
+  generator will adjust it to 2020-02-01 23:59:59.
+
+  This is contrary to the specification and is provided solely to help
+  with broken client programs.  Ideally, fix your client program and
+  stop using this option.
+
 .. warning::
 
   Scheduler caches the result of any calendar feed request for 1 hour.
