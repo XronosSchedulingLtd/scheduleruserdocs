@@ -188,6 +188,21 @@ You can add further options to the URLs given above to tweak the end result.
   with broken client programs.  Ideally, fix your client program and
   stop using this option.
 
+- lm
+
+  Or "Last Modified".  If specified, then the ical generator will
+  add a LAST-MODIFIED field to the record generated for each event.
+  This will be calculated by looking at the event itself, plus all
+  contributing commitments.  The latest time at which any of these
+  was changed will be provided as the LAST-MODIFIED value.
+
+- zulu
+
+  If specified, the start and end times of timed events will be given
+  in Zulu time (UTC) rather than the default of using explicit local
+  time.  It is then up to the client program to massage these as
+  required for local display.
+
 .. warning::
 
   Scheduler caches the result of any calendar feed request for 1 hour.
