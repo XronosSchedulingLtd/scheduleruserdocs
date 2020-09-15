@@ -8,7 +8,35 @@ Overview
 ---------
 
 Xronos Scheduler is a scheduling program designed primarily for use in
-schools, but potentially of use elsewhere.
+schools, but potentially of use elsewhere.  The idea is to store *all*
+the scheduling information for the school - timetable, extra-curricular
+activities, duties, sport, public calendar - in the same place and then
+make it available in the most useful way for each user.
+
+* Pupils can see their timetables, prep timetables, sport, extra-curricular
+  activities, trips etc. all in the same place.
+* Staff can see their own personal schedules, including not just their
+  timetables, but duty slots, trips, sport, meetings etc.
+* The general public can see anything flagged as being public - with
+  very flexible tools for controlling what is seen.
+* Suitable users can see the schedule for a particular room or resource
+  or view the schedules for any member of staff or pupil.
+
+The system can also identify free resources in any chosen category for
+a particular time.
+
+* A classroom free in period 5 on Thursday.
+* A lower sixth former free from 11:30 to 12:15 on Wednesday to take
+  a tour.  (Possibly even more specific - a lower sixth former who studies
+  geography who is free...)
+* A meeting room free on Friday from 12 till 1.
+
+Pooled resources - for instance, mini-buses - can be managed by an
+administrator.  A staff member requests 2 mini-buses for Thursday morning.
+Scheduler collates all such requests, flags possible problems and then
+lets the administrator decide which particular 2 to allocate.  The mini-buses
+are then linked to the staff member's original event (presumably a trip
+somewhere).
 
 Think of it as being much
 like any other calendar program, but with structure added.  Instead of
