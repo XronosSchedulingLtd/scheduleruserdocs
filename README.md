@@ -40,3 +40,14 @@ This repository holds the source for the User Guide.
 Xronos Scheduler is licensed under the GNU General Public Licence, version 2.
 
 
+To build this documentation on Debian GNU/Linux, install the following
+packages.
+
+* python3-sphinx
+* python3-sphinx-rtd-theme
+* texlive-latex-base
+* texlive-latex-recommended
+* texlive-fonts-recommended
+* texlive-fonts-extra
+* latexmk 
+
