@@ -203,6 +203,14 @@ You can add further options to the URLs given above to tweak the end result.
   time.  It is then up to the client program to massage these as
   required for local display.
 
+- dummyloc
+
+  Yet another flag to help broken clients which can't apparently
+  be fixed.  If specified then Scheduler will provide a LOCATION:
+  field in every entry returned, regardless of whether there is
+  anything to put in it.  You really don't want to know the details
+  of what the broken client does otherwise.
+
 .. warning::
 
   Scheduler caches the result of any calendar feed request for 1 hour.
