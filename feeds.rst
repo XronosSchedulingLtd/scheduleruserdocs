@@ -211,6 +211,10 @@ You can add further options to the URLs given above to tweak the end result.
   anything to put in it.  You really don't want to know the details
   of what the broken client does otherwise.
 
+  You can also use dummyloc=something and then Scheduler will
+  return "LOCATION:something" for every event which lacks an explicit
+  public location.
+
 .. warning::
 
   Scheduler caches the result of any calendar feed request for 1 hour.
