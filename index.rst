@@ -7,7 +7,7 @@ Index
 =====
 
 .. image:: public.png
-   :scale: 35%
+   :width: 400px
    :align: right
 
 Xronos Scheduler - a scheduling program for schools.
