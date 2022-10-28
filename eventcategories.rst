@@ -127,7 +127,7 @@ In the main Scheduler display, click on the words "Filter: off" at the
 top of the left hand column and a dialogue box will appear.
 
 .. image:: filtering.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here you can choose which event categories you want to appear on your
@@ -139,7 +139,7 @@ To avoid confusion - not being able to find events which should be there -
 the display changes slightly when you have any filtering active.
 
 .. image:: filteron.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 To restore the normal display, just invoke the dialogue again.

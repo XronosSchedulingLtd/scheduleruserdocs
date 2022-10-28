@@ -28,7 +28,7 @@ column. That will give you a screen like this - I've chosen to work with
 the school's public calendar.
 
 .. image:: calendarreport1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 You'll notice that on this same page you can also customize the appearance
@@ -38,7 +38,7 @@ If you immediately go on and click "Generate" you'll get something like
 this:
 
 .. image:: calendarreport2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 This is the simplest form of the report - it starts at today, and goes as
@@ -58,7 +58,7 @@ between events, and "Suppress empties" to remove empty days from the
 listing and it then looks like this:
 
 .. image:: calendarreport3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 For further explanation of what each of the tick boxes does, hover your

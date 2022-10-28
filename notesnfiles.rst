@@ -34,7 +34,7 @@ A sample note can be seen on the
 click on the rowing event on the Saturday to see it.
 
 .. image:: samplenote.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 This note includes a link to Google Maps, and a downloadable file.  The
@@ -58,7 +58,7 @@ added the note, his detailed view of the event (gained by clicking
 on it) would have looked like this:
 
 .. image:: beforenote.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 
@@ -66,14 +66,14 @@ Note the "Add note / file" link towards the right of the dialogue box.
 Clicking on that produces this view:
 
 .. image:: creatingnote1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The basic text can be entered very easily.  In the next screen, SJP
 has got as far as wanting to embed the link to Google Maps.
 
 .. image:: creatingnote2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Note that the cursor is positioned where he wants the link to go.  He then
@@ -81,7 +81,7 @@ clicks on the "Link file" button (bottom left) to open the link helper
 dialogue:
 
 .. image:: creatingnote3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here we have three fields:
@@ -94,14 +94,14 @@ Here we have three fields:
   if nothing is entered in the first field.
 
 .. image:: creatingnote4.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Filling in the fields as above and then clicking "Generate" will produce this
 in the note being created.
 
 .. image:: creatingnote5.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The helper has simply formatted the data given into a Markdown link.
@@ -111,7 +111,7 @@ The note is intended to be read by the general public, so click the
 work to date.  The note now looks like this:
 
 .. image:: creatingnote6.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 .. note::
@@ -130,13 +130,13 @@ the other two have been filled by clicking on the icon in the file
 list below the fields.
 
 .. image:: creatingnote7.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 And then clicking on "Generate" we get back to this.
 
 .. image:: creatingnote8.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Note that this time the embedded link points to a file hosted on
@@ -146,13 +146,13 @@ Finally we can add the last line of text, and because we want it
 in italics we surround it with underscore (_) characters.
 
 .. image:: creatingnote9.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 And then once "Update" has been clicked the final note looks like this.
 
 .. image:: creatingnote10.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Because that second link points to a file actually hosted on Scheduler,
@@ -169,7 +169,7 @@ files to Scheduler, you can upload them from the main menu.
 Use Menu => Files to get to your list of currently hosted files.
 
 .. image:: filelisting.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Note the list of existing files, plus a note of how much of the

@@ -29,7 +29,7 @@ each day.  A dialogue box will appear as shown below.
 
 
 .. image:: enterevent1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The first box is simply for you to put in some sort of description
@@ -53,7 +53,7 @@ how your system administrator has configured it, but these are what
 are on the demonstration system.
 
 .. image:: enterevent2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Because I just clicked on the calendar to create this event, the
@@ -81,7 +81,7 @@ resources.  To switch if off, click on your name in the coloured
 block in the left hand column, and then un-tick the "Auto add" box.
 
 .. image:: enterevent3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 There is only a single field for adding resources.  You
@@ -113,7 +113,7 @@ public calendar.  Note what has happened here when Simon Philpotts
 attempted to add "Calendar" as a property to his event.
 
 .. image:: enterevent4.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 It has appeared, but it has an orange question mark in front of it.
@@ -137,14 +137,14 @@ To finish off editing the event, click on the Update button and you
 will be taken to a dialogue showing full details of the event.
 
 .. image:: enterevent4a.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 And then if you click the "Done" button the dialogue closes and you're
 back to the main calendar display.
 
 .. image:: enterevent5.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Notice that it's there, but greyed out to indicate that it's incomplete.
@@ -167,7 +167,7 @@ Remember that this event originally had no explicit end time?  Now the
 bottom edge of the box can be dragged up and down to set a duration.
 
 .. image:: enterevent6.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 You can also drag the whole box to a different time, or a different day.
@@ -207,7 +207,7 @@ department.  Adding "Catering" as a resource to the event produces
 an amber entry as before:
 
 .. image:: cateringrequest1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 But in this instance, the catering department have configured Scheduler
@@ -215,7 +215,7 @@ to gather more information from the requester.  When the user finishes
 editing the event (clicks on "Update), the following screen is displayed.
 
 .. image:: cateringrequest2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 There is a form which the user needs to fill in to specify the exact
@@ -230,14 +230,14 @@ you can find the item by following the numbers down through the pop-down
 menu.
 
 .. image:: cateringrequest2a.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here we can see that the item is under Menu => Events => Mine, and
 clicking on that menu item brings up the following screen.
 
 .. image:: cateringrequest3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 There are two events listed - the two which we've just entered.
@@ -250,7 +250,7 @@ there is a form to fill in, and clicking on the "To fill in" link
 will bring up the relevant form.
 
 .. image:: cateringrequest4.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The exact design of each form is under the control of your system
@@ -266,7 +266,7 @@ Once you have filled in the form and saved it, you are returned to
 the event listing screen.
 
 .. image:: cateringrequest5.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The form is now shown as being complete, and your count of outstanding
@@ -307,7 +307,7 @@ As an example, here's what happens when the resource "Medical" is requested
 for an event in the demonstration system.
 
 .. image:: medicalrequest1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 A note has been added automatically to the event for the requester to

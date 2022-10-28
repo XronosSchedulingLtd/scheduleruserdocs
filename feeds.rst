@@ -26,14 +26,14 @@ Logged in to the Scheduler demo system, click on Simon Philpotts's name
 on the left hand side to see a screen like this:
 
 .. image:: concern1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Notice that there are three tabs on this screen - Appearance, Feeds and Report.
 Click on the Feeds tab, to get a screen like this:
 
 .. image:: concern2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 There are various pre-constructed URLs here.  The first two are the
@@ -70,7 +70,7 @@ calendaring program.
 The end result in Google Calendar can look like this:
 
 .. image:: googlecalendar.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 

@@ -25,7 +25,7 @@ there - "Relocate lesson".
 
 
 .. image:: relocate1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Click on the link and a new pop-down entry box will appear, which after
@@ -38,7 +38,7 @@ a very short delay will be populated with a list of available rooms.
    (or both).
 
 .. image:: relocate2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The system automatically shows you only rooms which are free at the
@@ -46,7 +46,7 @@ required time.  Click on the one which you want and then click on OK
 to re-locate your lesson.
 
 .. image:: relocate3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 To move a lesson back to its original location, use the same dialogue and
@@ -57,6 +57,6 @@ property, and so all re-located lessons can be viewed at once using the
 usual event selection tools.
 
 .. image:: relocate4.png
-   :scale: 75%
+   :width: 600px
    :align: center
 

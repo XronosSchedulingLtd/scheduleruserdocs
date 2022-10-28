@@ -63,14 +63,14 @@ Once you've created your original event (see
 "Repeat" available on the left-hand side of the "Show event" dialogue.
 
 .. image:: createrepeat1.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Clicking on this link will replace the dialogue with one allowing you
 to specify your repetition criteria.
 
 .. image:: createrepeat2.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here you can specify a start and end date for your repetition, which
@@ -98,7 +98,7 @@ In the following image, the event has been specified as happening on
 Wednesday and Thursday of Week A only until the end of May.
 
 .. image:: createrepeat3.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 
@@ -107,7 +107,7 @@ be created, and after a short delay they will appear in the
 main calendar screen.
 
 .. image:: createrepeat4.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 

@@ -82,7 +82,7 @@ what you see.  Casual browsers see only events which are flagged as
 being public, but logged in users have far more control.
 
 .. image:: public.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Scheduler is designed to import whatever schedule information is available
@@ -107,7 +107,7 @@ of staff or pupil's timetable and much more.
 
 
 .. image:: loggedin.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 

@@ -6,7 +6,7 @@ particular working style. Firstly, you can click on your name at the top on
 the right to change some of your user settings.
 
 .. image:: editinguser.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here you can change the day of the week on which your week display will
@@ -14,7 +14,7 @@ start. By default it starts on Sunday, but some people prefer the week
 to start on Monday. You can even set it start on Thursday if you like.
 
 .. image:: thursdayweek.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The other two fields allow you to set a default event category, and default
@@ -29,7 +29,7 @@ click on your name on the left hand side of the screen.
 That will produce a screen like this:
 
 .. image:: editingsjp.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Here I can change the colour in which my events appear and whether or not

@@ -24,7 +24,7 @@ Public view
 When you first access Scheduler you will see a page much like this:
 
 .. image:: public.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 It is showing the school's public calendar, which is available
@@ -63,7 +63,7 @@ use it to view their own individual schedules.
 If you log in as SJP, you should then see a screen much more like this:
 
 .. image:: loggedin.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 
@@ -83,7 +83,7 @@ To tidy up the display, un-tick the check boxes against "My events" and
 "Calendar" in the left-hand column.
 
 .. image:: justme.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 The system is now showing just Simon Philpotts's schedule, with one extra
@@ -106,7 +106,7 @@ a cover lesson - not part of SJP's normal schedule.  To gain more information
 about this entry, click on it.
 
 .. image:: coverlesson.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Similar details can be viewed for any event, but there are some extra
@@ -115,7 +115,7 @@ who CED is then you can hover your mouse over the initials to get that
 information.
 
 .. image:: hovertext.png
-   :scale: 75%
+   :width: 400px
    :align: center
 
 Claire has also attached a note to the lesson giving details of the required
@@ -149,7 +149,7 @@ pupils seem to have a clashing commitment.  Click on that lesson for
 more information.
 
 .. image:: clashdetails.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 A note has been added by the system listing the pupils who seem to be
@@ -170,7 +170,7 @@ pop-up and start typing his name in the "Add watch item" box at the top
 of the left-hand column.
 
 .. image:: predictiveinput.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Either keep typing his name, or select his name from the list which
@@ -178,7 +178,7 @@ pops up, and James's schedule too will be added to the display.  To
 avoid it getting too cluttered, un-tick the checkbox against SJP's name.
 
 .. image:: jamesgreenwood.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 You can now see James's full schedule, including the Geography Field Trip.

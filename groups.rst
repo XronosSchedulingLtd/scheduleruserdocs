@@ -175,13 +175,13 @@ You may find you already have groups listed if you have created any
 in your MIS, but otherwise you'll get an empty screen like this:
 
 .. image:: grouplistingempty.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Click on the "New Group" button and you'll see a screen like this:
 
 .. image:: newblankgroup.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Give it a name, and choose which era you want it to go into.  You
@@ -196,7 +196,7 @@ Before you can add members to the group, it needs to exist, so click
 the "Create" button and your screen will change to this:
 
 .. image:: newlycreatedgroup.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 
@@ -209,7 +209,7 @@ who don't study French.  I can do this by using existing automatic
 groups.  First I add "Year 10 pupils" to my group.
 
 .. image:: groupyear10.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Note that Scheduler shows what I've added, and what the resulting
@@ -227,13 +227,13 @@ Now I want to exclude the pupils who study French, so I type "Year 10
 French pupils" in the right hand box (for exclusions):
 
 .. image:: groupstypingfrench.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 and I end up with this:
 
 .. image:: groupsexcludedfrench.png
-   :scale: 75%
+   :width: 600px
    :align: center
 
 Note that the excluded group has been added in red (to show it's an
